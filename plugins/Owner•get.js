@@ -20,7 +20,7 @@ const handler = async (m, {text}) => {
   }
 };
 handler.help = ['fetch', 'get'];
-handler.tags = ['owner'];
+handler.tags = ['Creador'];
 handler.command = ['fetch', 'get'];
 handler.rowner = true;
 export default handler;

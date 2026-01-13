@@ -163,14 +163,14 @@ const handler = async (m, { conn, text, command }) => {
       const dl = await savetube.download(url, "video")
       if (!dl.status) {
         await m.react("✖️")
-        return m.reply(`❌ Error zorra: ${dl.error}`)
+        return m.reply(`❌ Error: ${dl.error}`)
       }
       try {
         const { headers } = await axios.head(dl.result.download)
         const fileSize = parseInt(headers["content-length"] || 0)
-        if (fileSize > 209715200) {
+        if (fileSize > 419430400) {
           await m.react("✖️")
-          return m.reply("⚠️ El archivo supera los 200 MB, no puedo enviarlo.")
+          return m.reply("⚠️ El archivo supera los 400MB, no puedo enviarlo.")
         }
       } catch {}
       await conn.sendMessage(

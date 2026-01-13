@@ -1,4 +1,3 @@
-//código creado x The Carlos 👑 
 import Jimp from "jimp";
 import { sticker } from '../lib/sticker.js';
 import fs from 'fs';
@@ -71,7 +70,7 @@ let handler = async (m, { conn, text }) => {
   );
 
   let buffer = await image.getBufferAsync(Jimp.MIME_PNG);
-  let stiker = await sticker(buffer, false, '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗', 'The Carlos 👑');
+  let stiker = await sticker(buffer, false, '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗', 'TiempoMD 👑');
 
   if (!stiker) return m.reply("❌ No se pudo generar el sticker.");
 
@@ -82,7 +81,7 @@ let handler = async (m, { conn, text }) => {
     contextInfo = {
       externalAdReply: {
         title: '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 | Patricio 👻',
-        body: 'Dev • The Carlos 👑',
+        body: 'Dev • TiempoMD 👑',
         mediaType: 2,
         thumbnail: fs.readFileSync(path.join(imgFolder, imgFiles[0]))
       }

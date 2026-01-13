@@ -229,7 +229,7 @@ ${usedPrefix + command} antiprivado`
               externalAdReply: {
                 showAdAttribution: false,
                 title: `⚔️ Centro de Configuración`,
-                body: `✡︎ Powered By • The Carlos`,
+                body: `✡︎ Powered By • ELVIS SF`,
                 mediaType: 2,
                 sourceUrl: global.redes || '',
                 thumbnail: global.icons || null
@@ -250,7 +250,7 @@ ${usedPrefix + command} antiprivado`
         externalAdReply: {
           showAdAttribution: false,
           title: `⚙️ Configuración`,
-          body: `✡︎ Black-clover-MD • The Carlos`,
+          body: `✡︎ Black-clover-MD • ELVIS SF`,
           mediaType: 2,
           sourceUrl: global.redes || '',
           thumbnail: global.icons || null

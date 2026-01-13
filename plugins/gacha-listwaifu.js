@@ -1,4 +1,3 @@
-//Código creado x The Carlos 👑 
 import { promises as fs } from 'fs';
 
 const charactersFilePath = './src/database/characters.json';

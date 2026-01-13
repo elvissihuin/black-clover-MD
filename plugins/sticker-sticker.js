@@ -21,21 +21,21 @@ let handler = async (m, { conn, args }) => {
       try {
         stiker = await sticker(
           media,
-          false,
-          global.packsticker || 'Black Clover Pack',
-          global.author || 'By The Carlos'
+          false, 
+          global.packsticker || 'CREEPER🤖 Pack',
+          global.author || 'By TiempoMD'
         )
         if (Buffer.isBuffer(stiker)) fs.writeFileSync(tmpPath, stiker)
       } catch (e) {
         let out
         if (/webp/.test(mime)) out = await webp2png(media)
-        else if (/image/.test(mime)) out = await uploadImage(media)
+        else if (/image/.test(mime)) out = await uploadImage(media) 
         else if (/video/.test(mime)) out = await uploadFile(media)
         if (typeof out !== 'string') out = await uploadImage(media)
         stiker = await sticker(
           false,
-          out,
-          global.packsticker || 'Black Clover Pack',
+          out, 
+          global.packsticker || 'CREEPER🤖 Pack',
           global.author || 'By The Carlos'
         )
         if (Buffer.isBuffer(stiker)) fs.writeFileSync(tmpPath, stiker)
@@ -45,8 +45,8 @@ let handler = async (m, { conn, args }) => {
         stiker = await sticker(
           false,
           args[0],
-          global.packsticker || 'Black Clover Pack',
-          global.author || 'By The Carlos'
+          global.packsticker || 'CREEPER🤖 Pack',
+          global.author || 'By TiempoMD'
         )
         const tmpPath = path.join('./tmp', `${Date.now()}.webp`)
         if (Buffer.isBuffer(stiker)) fs.writeFileSync(tmpPath, stiker)
@@ -71,8 +71,8 @@ let handler = async (m, { conn, args }) => {
         if (thumb) {
           contextInfo = {
             externalAdReply: {
-              title: 'Black-clover-MD 🥷🏻',
-              body: 'Dev • The Carlos ✨',
+              title: 'Creeper-bot-MD 🥷🏻',
+              body: 'Dev • TiempoMD ✨',
               mediaType: 2,
               thumbnail: thumb
             }

@@ -17,7 +17,7 @@ const handler = async (m, { conn, args }) => {
 
   const datos = obtenerDatosPj(nombre)
   const fragmentos = datos.precio >= 80000 ? 3 : datos.precio >= 60000 ? 2 : 1
-
+  
   user.personajes.splice(index, 1)
   user.fragmentos = (user.fragmentos || 0) + fragmentos
 

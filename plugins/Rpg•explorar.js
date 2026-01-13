@@ -1,4 +1,3 @@
-//Código creado x The Carlos 👑 
 const COOLDOWN = 2 * 60 * 60 * 1000
 const MAX_EXPLORACIONES = 8
 

@@ -21,8 +21,8 @@ const handler = async (m, { conn }) => {
       message: {  
         messageContextInfo: { deviceListMetadata: {}, deviceListMetadataVersion: 2 },  
         interactiveMessage: {  
-          body: {   
-            text: `*Błąçk - Cløvęr Bø†* ☣️
+        body: {
+          text: `*CREEPER🤖 Bø†* ☣️
 
 Bïęnvęnïdø ąl męñú ęmbrųjądø dę Hålłøwęęn:
 
@@ -31,12 +31,12 @@ Bïęnvęnïdø ąl męñú ęmbrųjądø dę Hålłøwęęn:
 - 🧛‍♂️ Åventúråtę ën ël męñú RPG øscürø y dîvęrtîdø  
 
 Şęlęcçïøną üñą òpciøn:`   
-          },  
-          footer: { text: '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘︎ | ⚔️🥷 Ėdïçïón Glïtch Hålløwęęn' },  
+        },
+        footer: { text: 'CREEPER🤖 ☘︎ | ⚔️🥷 Ėdïçïón Glïtch Hålløwęęn' },
           header: {  
             type: 'IMAGE',  
             imageUrl: 'https://i.imgur.com/3fJ1P1b.png',  
-            title: ' Męñú Bląçk Cløvęr 🥷🏻'  
+            title: ' Męñú CREEPER🤖 🥷🏻'
           },  
           nativeFlowMessage: {  
             buttons: [  

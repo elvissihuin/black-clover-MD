@@ -40,7 +40,7 @@ const handler = async (m, { conn, usedPrefix }) => {
     '🎩 ¡Con estilo!'
   ]
 
-  const frasesJefe = [
+  const frasesJefe = [ 
     '🧟‍♂️ *¡He venido a vengar a mis súbditos!*', '🧟‍♂️ *¡Nadie saldrá vivo de aquí!*',
     '🧟‍♂️ *¡Soy el terror de los vivos!*', '🧟‍♂️ *¡Prepárense para morir!*',
     '🧟‍♂️ *¡Mi ira será su condena!*', '🧟‍♂️ *¡Soy la plaga eterna!*',
@@ -48,7 +48,7 @@ const handler = async (m, { conn, usedPrefix }) => {
     '🧟‍♂️ *¡Su valentía no servirá de nada!*', '🧟‍♂️ *¡Este mundo me pertenece!*'
   ]
 
-  const personajesTop = ['Arcangel Supremo 😇', 'The Carlos 🧠', 'Dios del Tiempo ⏳', 'Dragón Ancestral 🐉']
+  const personajesTop = ['Arcangel Supremo 😇', 'TiempoMD 🧠', 'Dios del Tiempo ⏳', 'Dragón Ancestral 🐉']
   const personajesElite = ['Samurai de la Sombra ⚔️', 'Dios Guerrero 🪖', 'Hechicero Supremo 🧙‍♂️', 'Titán del Infinito 👹', 'Alma del Vacío 👻']
 
   let resultado = `🧟‍♂️ *¡La invasión zombie continúa!* 🧟‍♂️\n\n`

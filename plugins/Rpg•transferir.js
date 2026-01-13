@@ -1,5 +1,3 @@
-//código creado x The Carlos 
-//no olviden dejar créditos 
 const IVA = 0.20
 const owners = [...global.owner.map(([num]) => num + '@s.whatsapp.net')]
 

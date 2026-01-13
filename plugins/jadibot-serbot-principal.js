@@ -1,6 +1,3 @@
-// Código creado x The Carlos 👑
-// No olvides dejar créditos
-
 import ws from 'ws'
 
 const handler = async (m, { conn }) => {
@@ -15,7 +12,7 @@ const handler = async (m, { conn }) => {
     if (!who) return conn.reply(m.chat, `No se encontró un sub-bot activo.`, m)
 
     if (chat.primaryBot === who) {
-        return conn.reply(m.chat, `Black-clover-MD ya está como Bot principal en este grupo.`, m);
+        return conn.reply(m.chat, `Creeper-bot-MD ya está como Bot principal en este grupo.`, m);
     }
 
     try {

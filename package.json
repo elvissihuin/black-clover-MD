@@ -1,5 +1,5 @@
 {
-  "name": "black-clover-MD",
+  "name": "TiempoMD",
   "version": "7.7.7",
   "description": "El Mejor bot de WhatsApp",
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/thecarlos19/black-clover-MD",
   "author": {
-    "name": "thecarlos19"
+    "name": "Tiempo"
   },
   "collaborators": {
     "col1": "Antuan",
@@ -54,7 +54,7 @@
     "cfonts": "^3.3.0",
     "chalk": "^5.1.0",
     "cheerio": "npm:cheerio@1.0.0-rc.12",
-    "didyoumean": "^1.2.2",
+    "didyoumean": "^1.2.2", 
     "express": "^4.18.1",
     "file-type": "^18.0.0",
     "fluent-ffmpeg": "^2.1.2",

@@ -45,7 +45,7 @@ try {
  }    
 };
 handler.help = ['groups', 'grouplist'];
-handler.tags = ['owner'];
+handler.tags = ['Creador'];
 handler.command = ['listgroup', 'gruposlista', 'grouplist', 'listagrupos']
 handler.rowner = true;
 handler.private = true

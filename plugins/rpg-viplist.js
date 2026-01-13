@@ -1,6 +1,3 @@
-// código creado x The Carlos 👑
-// comando: listar vip 
-
 let handler = async (m, { conn }) => {
   const emoji = '🌟';
   const now = Date.now();

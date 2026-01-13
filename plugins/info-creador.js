@@ -1,14 +1,14 @@
 import PhoneNumber from 'awesome-phonenumber'
 
 let handler = async (m, { conn, usedPrefix, text, args, command }) => {
-  let nomorown = '5215544876071' // Propietario
-  let bio = (await conn.fetchStatus(nomorown + '@s.whatsapp.net').catch(_ => {}))?.status || 'Propietario del sistema Black Clover'
-  let biobot = (await conn.fetchStatus(conn.user.jid).catch(_ => {}))?.status || 'Bot Oficial Black Clover'
+  let nomorown = '51939467706' // Propietario
+  let bio = (await conn.fetchStatus(nomorown + '@s.whatsapp.net').catch(_ => {}))?.status || 'Propietario del sistema CREEPER'
+  let biobot = (await conn.fetchStatus(conn.user.jid).catch(_ => {}))?.status || 'Bot Oficial CREEPER🤖'
 
   await sendContactArray(conn, m.chat, [
-    [`${nomorown}`, `🥷🏻 Propietario`, `𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒`, dev, correo, `CDMX`, `${global.yt}`, bio],
-    [`${conn.user.jid.split('@')[0]}`, `Black Clover Bot 🤖`, `${packname}`, `📵 No Hacer Spam`, correo, `CDMX`, md, biobot],
-    [`5217971282613`, `Asistente clover`, `Bot Helper`, 'Soporte', correo, `CDMX`, md, biobot]
+    [`${nomorown}`, `🥷🏻 Propietario 👑`, `Elvis SF`, dev, correo, `CDMX`, `${global.yt}`, bio],
+    [`${conn.user.jid.split('@')[0]}`, `CREEPER🤖 Bot 🤖`, `${packname}`, `📵 No Hacer Spam`, correo, `CDMX`, md, biobot],
+    [`51928567606`, `Asistente clover`, `Bot Helper`, 'Soporte', correo, `CDMX`, md, biobot]
   ], m)
 
   throw false

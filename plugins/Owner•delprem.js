@@ -16,7 +16,7 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
   m.reply(textdelprem, null, {mentions: conn.parseMention(textdelprem)});
 };
 handler.help = ['delprem <@user>'];
-handler.tags = ['owner'];
+handler.tags = ['Creador'];
 handler.command = ['remove', 'delpremium']
 handler.group = true;
 handler.rowner = true;

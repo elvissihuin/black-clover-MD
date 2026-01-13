@@ -66,7 +66,7 @@ var handler = async (m, { conn }) => {
 }
 
 handler.help = ['ping']
-handler.tags = ['bot']
+handler.tags = ['Function Ping']
 handler.command = ['ping', 'p']
 handler.register = true
 

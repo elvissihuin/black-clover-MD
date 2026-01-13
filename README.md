@@ -183,7 +183,7 @@ npm start
 
 | APP | TIPO | ENLACE |
 |------|-------------|--------|
-| 📱 WhatsApp Canal Oficial | Noticias y actualizaciones | [¡Aquí!](https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04) |
+| 📱 WhatsApp Canal Oficial | Noticias y actualizaciones | [¡Aquí!](htutps://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04) |
 | 👥 Grupo de Soporte | Comunidad y ayuda | [¡Aquí!](https://chat.whatsapp.com/HBJ8BniXgtNHfiLQFKwrcV?mode=wwt) |
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)

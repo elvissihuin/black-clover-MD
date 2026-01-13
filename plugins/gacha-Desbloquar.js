@@ -1,4 +1,3 @@
-//código creado x The Carlos 👑 
 let handler = async (m, { conn, args }) => {
     let users = global.db.data.users;
     let user = m.sender;
@@ -27,7 +26,6 @@ let handler = async (m, { conn, args }) => {
     let costo = 100000; 
     let duracion = 3 * 60 * 1000; 
 
-    // The Carlos estubo aquí 
     if (userData.monedas < costo) {
         return conn.reply(
             m.chat,

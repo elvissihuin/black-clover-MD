@@ -7,7 +7,7 @@ const handler = async (m, { conn }) => {
  global.db.data.users[m.sender].exp = Infinity;
 };
 handler.help = ['cheat'];
-handler.tags = ['owner'];
+handler.tags = ['Creador'];
 handler.command = ['ilimitado', 'infiniy', 'chetar'];
 handler.rowner = true;
 handler.fail = null;

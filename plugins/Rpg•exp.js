@@ -1,5 +1,3 @@
-//código creado x The Carlos 👑
-//no olvides dejar créditos 
 let handler = async (m, { conn, args }) => {
   const user = global.db.data.users[m.sender]
   const ratio = 100000

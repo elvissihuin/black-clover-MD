@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.container {
+    text-align: center;
+    padding: 2rem 3rem;
+    background: #1e1e1e;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    border: 1px solid #333;
+}
+
+h1 {
+    color: #bb86fc;
+}
+
+input {
+    padding: 0.8rem;
+    margin-top: 1rem;
+    width: 80%;
+    border-radius: 4px;
+    border: 1px solid #333;
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+    font-size: 1rem;
+}
+
+button {
+    padding: 0.8rem 1.5rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    background-color: #03dac6;
+    color: #121212;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #018786;
+}
+
+button:disabled {
+    background-color: #444;
+    cursor: not-allowed;
+}
+
+#result-container {
+    margin-top: 1.5rem;
+}
+
+#pairing-code {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #03dac6;
+    letter-spacing: 4px;
+    margin: 0.5rem 0;
+}
+
+.hidden {
+    display: none;
+}
+
+#status-message {
+    margin-top: 1rem;
+    color: #cf6679;
+}

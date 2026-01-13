@@ -3,7 +3,7 @@ import cheerio from 'cheerio';
 
 const handler = async (m, { conn, text, usedPrefix, command }) => {
   if (!db.data.chats[m.chat].nsfw && m.isGroup) {
-    return conn.sendMessage(
+    return conn.reply(
       m.chat,
       { text: `${emoji} El contenido *NSFW* está desactivado en este grupo.\n> Un administrador puede activarlo con el comando » *#nsfw on*` },
       { quoted: m }
@@ -11,7 +11,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
   }
 
   if (!text) {
-    return conn.sendMessage(
+    return conn.reply(
       m.chat,
       { text: `${emoji} Por favor, ingrese la búsqueda.\n> Ejemplo de uso: ${usedPrefix + command} Con mi prima` },
       { quoted: m }

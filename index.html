@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vincular Black Clover MD</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Vincular tu WhatsApp con Black Clover MD</h1>
+        <p>
+            Ingresa tu número de WhatsApp (con código de país, sin el "+") 
+            para recibir un código de vinculación.
+        </p>
+        <form id="pairing-form">
+            <input type="text" id="phone-number" placeholder="Ej: 5211234567890" required>
+            <button type="submit" id="submit-btn">Generar Código</button>
+        </form>
+        <div id="result-container">
+            <div id="pairing-code-display" class="hidden">
+                <p>Tu código de vinculación es:</p>
+                <div id="pairing-code"></div>
+                <small>Ve a WhatsApp > Dispositivos Vinculados > Vincular con número de teléfono e ingresa el código.</small>
+            </div>
+            <div id="status-message"></div>
+        </div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        const socket = io();
+        const form = document.getElementById('pairing-form');
+        const phoneNumberInput = document.getElementById('phone-number');
+        const pairingCodeDiv = document.getElementById('pairing-code');
+        const displayDiv = document.getElementById('pairing-code-display');
+        const statusMessage = document.getElementById('status-message');
+        const submitBtn = document.getElementById('submit-btn');
+
+        form.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const number = phoneNumberInput.value.trim();
+            if (number) {
+                statusMessage.textContent = 'Generando código, por favor espera...';
+                displayDiv.classList.add('hidden');
+                submitBtn.disabled = true;
+                socket.emit('request-pairing-code', { number });
+            }
+        });
+
+        socket.on('pairing-code', (code) => {
+            statusMessage.textContent = '';
+            pairingCodeDiv.textContent = code;
+            displayDiv.classList.remove('hidden');
+            submitBtn.disabled = false;
+        });
+
+        socket.on('pairing-error', (error) => {
+            statusMessage.textContent = `Error: ${error}`;
+            submitBtn.disabled = false;
+        });
+    </script>
+</body>
+</html>

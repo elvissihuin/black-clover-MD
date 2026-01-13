@@ -28,7 +28,7 @@ const defaultMenu = {
 
 
 🎁 » 𝐌𝐄𝐍𝐔 𝐃𝐄 𝐍𝐀𝐕𝐈𝐃𝐀𝐃 🎅🏻 «  
-👑 » 𝗢𝗽𝗲𝗿𝗮𝗱𝗼𝗿:—͟͟͞͞ 𝐓𝐡𝐞 𝐂𝐚𝐫𝐥𝐨𝐬 𖣘 «
+👑 » 𝗢𝗽𝗲𝗿𝗮𝗱𝗼𝗿:—͟͟͞͞ TiempoMD 𖣘 «
 %readmore
 `.trimStart(),
 
@@ -121,7 +121,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     if (menuMedia.thumbnail && fs.existsSync(menuMedia.thumbnail)) {
       thumbBuffer = fs.readFileSync(menuMedia.thumbnail)
     } else {
-      thumbBuffer = await fetch('https://files.catbox.moe/c5hat3.jpg').then(res => res.arrayBuffer()).then(Buffer.from)
+      thumbBuffer = await fetch('https://files.catbox.moe/pf7ytb.jpg').then(res => res.arrayBuffer()).then(Buffer.from)
     }
 
     const uniqueThumb = Buffer.concat([thumbBuffer, Buffer.from(conn.user.jid)])
@@ -130,26 +130,27 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     if (menuMedia.video && fs.existsSync(menuMedia.video)) {
       mediaMessage = { video: fs.readFileSync(menuMedia.video), jpegThumbnail: uniqueThumb, gifPlayback: true }
     } else {
-      const defaultVideo = await fetch('https://files.catbox.moe/kku6hy.mp4').then(res => res.arrayBuffer()).then(Buffer.from)
+      const defaultVideo = await fetch('https://files.catbox.moe/ctx52a.mp4').then(res => res.arrayBuffer()).then(Buffer.from)
       mediaMessage = { video: defaultVideo, jpegThumbnail: uniqueThumb, gifPlayback: true }
     }
 
-    const menuTitle = menuMedia.menuTitle || '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 | 𝕳𝖆𝖐 v777 🎅🏻'
+    const menuTitle = menuMedia.menuTitle || 'CREEPER🤖 | ELVIS SF'
 
     await conn.sendMessage(m.chat, {
       ...mediaMessage,
       caption: text,
-      footer: '🧠 BLACK CLOVER SYSTEM ☘️',
+      footer: '🧠 CREEPER🤖 SYSTEM ☘️',
       buttons: [
         { buttonId: `${_p}menurpg`, buttonText: { displayText: '🏛️ M E N U R P G' }, type: 1 },
+        { buttonId: `${_p}creador`, buttonText: { displayText: '👑 C R E A D O R 🥷'}, type: 1 },
         { buttonId: `${_p}code`, buttonText: { displayText: '🕹 ＳＥＲＢＯＴ' }, type: 1 }
       ],
       contextInfo: {
         externalAdReply: {
           title: menuTitle,
-          body: 'ִ┊࣪ ˖𝐃𝐞𝐯 • 𝐓𝐡𝐞 𝐂𝐚𝐫𝐥𝐨𝐬 ♱',
+          body: 'ִ┊࣪ ˖𝐃𝐞𝐯 • TiempoMD ♱',
           thumbnail: uniqueThumb,
-          sourceUrl: 'https://github.com/thecarlos19/black-clover-MD',
+          sourceUrl: 'https://github.com/hello-000-1/TIME',
           mediaType: 1,
           renderLargerThumbnail: true
         }

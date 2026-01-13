@@ -1,4 +1,3 @@
-//código creado x The Carlos 👑 
 let handler = async (m, { conn, args }) => {
     let user = m.sender;
     let users = global.db.data.users;

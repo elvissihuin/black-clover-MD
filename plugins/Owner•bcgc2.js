@@ -59,7 +59,7 @@ const handler = async (m, { conn, text }) => {
 };
 
 handler.help = ['bcgc2', 'bcg'];
-handler.tags = ['owner'];
+handler.tags = ['Creador'];
 handler.command = ['bcgc2', 'bcg'];
 handler.owner = true; // Requiere que esté en global.owner
 

@@ -1,5 +1,3 @@
-//Codígo creado por thecarlos19 
-
 import fs from 'fs';
 import path from 'path';
 

@@ -59,7 +59,7 @@ let handler = async (m, { conn, text }) => {
 };
 
 handler.help = ['añadirmonedas @usuario cantidad'];
-handler.tags = ['owner'];
+handler.tags = ['Creador'];
 handler.command = ['añadirmonedas', 'addmonedas', 'addmoney'];
 handler.rowner = true;
 

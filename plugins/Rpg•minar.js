@@ -1,4 +1,3 @@
-//código creado x The Carlos 👑 
 let handler = async (m, { conn }) => {
   const user = global.db.data.users[m.sender]
   const cooldown = 10 * 60 * 1000

@@ -1,5 +1,3 @@
-//código creado x The Carlos 👑
-//no olvides dejar créditos 
 const CURRENCY = 'monedas'
 
 const UNITS = {

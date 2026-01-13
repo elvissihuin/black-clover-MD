@@ -9,8 +9,8 @@ El codigo de este archivo esta totalmente hecho por:
 El codigo de este archivo fue parchado en su momento por:
 - BrunoSobrino >> https://github.com/BrunoSobrino
 
-El codigo fue modificado para Black-clover-MD:
-- Black-clover-MD (https://github.com/thecarlos19/Black-clover-MD)
+El codigo fue modificado para Creeper-bot-MD:
+- Creeper-bot-MD (https://github.com/thecarlos19/Creeper-bot-MD)
 
 Adaptacion y edición echa por:
 - The carlos (https://github.com/thecarlos19)
@@ -45,7 +45,7 @@ let drm1 = ""
 let drm2 = ""
 
 let rtx =
-`˚₊·✞『 𝗕𝗹𝗮𝗰𝗸 𝗖𝗹𝗼𝘃𝗲𝗿 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
+`˚₊·✞『 CREEPER🤖 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
 
 📲 *Escanea el Grimorio QR desde tu WhatsApp:*  
 ⋮ > *Dispositivos vinculados* > *Escanear código*  
@@ -56,7 +56,7 @@ let rtx =
 🧿 *Tu energía quedará vinculada al Grimorio principal*`
 
 let rtx2 =
-`˚₊·✞『 𝗕𝗹𝗮𝗰𝗸 𝗖𝗹𝗼𝘃𝗲𝗿 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
+`˚₊·✞『 CREEPER🤖 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
  
 🜲 *Usa este Código Espiritual para convertirte en un ✧ Sub-Bot Temporal bajo el contrato del Reino de las Sombras.*  
 

@@ -1,4 +1,3 @@
-// código creado x The Carlos 👑
 import fs from 'fs'
 import path from 'path'
 
@@ -27,7 +26,7 @@ async function handler(m, { conn: stars, usedPrefix }) {
   const totalUsers = users.length
   const availableSlots = Math.max(0, maxSubBots - totalUsers)
 
-  let responseMessage = `˚₊·—̳͟͞͞✞ *Subbots Black-clover-MD 🥷🏻*\n\n`
+  let responseMessage = `˚₊·—̳͟͞͞✞ *Subbots Creeper-bot-MD 🥷🏻*\n\n`
 
   if (totalUsers === 0) {
     responseMessage += `✞ Estado:\n> ⤿ No hay *subbots conectados* por ahora.\n\n✞ Información:\n> ⤿ 🟢 Espacios disponibles: *${availableSlots}*`
@@ -46,7 +45,7 @@ async function handler(m, { conn: stars, usedPrefix }) {
     responseMessage += `✞ Estado:\n> ⤿ 🔢 Total conectados: *${totalUsers}*\n> ⤿ 🟢 Espacios disponibles: *${availableSlots}*\n\nᥫ᭡ Nota:\n> ⤿ Hay demasiados subbots conectados.\n> ⤿ _No se muestra la lista detallada._`
   }
 
-  responseMessage += `\n\n📂 *Creador del Bot:* The Carlos 👑`
+  responseMessage += `\n\n📂 *Creador del Bot:* TiempoMD 👑`
 
   const imgDir = path.resolve('./src/img')
   let images = []

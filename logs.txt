@@ -1,0 +1,2562 @@
+[12/31/2025, 3:50:28 PM] +51 939 467 706 ~Elvis > .clearlogs
+[12/31/2025, 3:50:29 PM] +51 928 567 606 ~Elvis FS > ✅ El contenido del archivo `logs.txt` ha sido eliminado.
+[12/31/2025, 3:51:57 PM] undefined > .IA hola
+[12/31/2025, 3:51:59 PM] +51 928 567 606 ~Elvis FS > 🧾 [1mNO REGISTRADO EN EL SISTEMA[22m
+
+> 🚫 [1mAcceso denegado:[22m No puedes usar los comandos sin registrarte.
+
+🔐 Regístrate con: [1m/reg nombre.edad[22m
+📍 Ejemplo: [1m/reg Asta.20[22m
+
+> 🥷🏻 [1mCanal oficial del creador del bot  :[22m
+[94mhttps://whatsapp.com/channel/0029VbBcXc8Chq6GmExvhU1l[39m
+
+📂 [1mCreador del bot:[22m TiempoMD
+[12/31/2025, 3:52:00 PM] +51 928 567 606 ~Elvis FS > ✖️
+[12/31/2025, 3:52:02 PM] +51 928 633 895 ~Alex > J
+[12/31/2025, 3:52:02 PM] undefined > J
+[12/31/2025, 3:52:07 PM] +51 928 633 895 ~Alex > U
+[12/31/2025, 3:52:07 PM] undefined > U
+[12/31/2025, 3:52:18 PM] +51 928 633 895 ~Alex > .reg Pablo.21
+[12/31/2025, 3:52:18 PM] +51 928 567 606 ~Elvis FS > > [1m🌿!*[22mR E G I S T R O  M Á G I C O*
+
+> [1m![22m ✧──『 ⚜️ 𝗗𝗔𝗧𝗢𝗦 ⚜️ 』
+> [1m![22m 🧙‍♂️ [1mNombre:[22m Pablo
+> [1m![22m 🎂 [1mEdad:[22m 21 años
+> [1m![22m 🌍 [1mReino:[22m Clover
+> [1m![22m 🌌 [1mAfinidad:[22m 🌞 Luz
+> [1m![22m 💠 [1mNivel Mágico:[22m 5
+> [1m![22m 📖 [1mGrimorio:[22m 📖 Grimorio Mágico
+> [1m![22m ✧────────────────✧
+
+> [1m![22m 🕯️ 𝑬𝒍 𝒗í𝒏𝒄𝒖𝒍𝒐 𝒎á𝒈𝒊𝒄𝒐 𝒔𝒆 𝒉⟮ 𝒆𝒔𝒕𝒂𝒃𝒍𝒆𝒄𝒊𝒅𝒐.
+> [1m🌿![22m ⚔️ 𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐, [1mPABLO[22m 𝒅𝒆𝒍 𝑹𝒆𝒊𝒏𝒐 Clover.
+> [1m![22m ☘️ ¡𝑬𝒍 𝒅𝒆𝒔𝒕𝒊𝒏𝒐 𝒕𝒆 𝒂𝒈𝒖𝒂𝒓𝒅𝒂!
+[12/31/2025, 3:52:25 PM] +51 939 467 706 ~Elvis > .IA hola
+[12/31/2025, 3:52:26 PM] +51 928 567 606 ~Elvis FS > 🧾 [1mNO REGISTRADO EN EL SISTEMA[22m
+
+> 🚫 [1mAcceso denegado:[22m No puedes usar los comandos sin registrarte.
+
+🔐 Regístrate con: [1m/reg nombre.edad[22m
+📍 Ejemplo: [1m/reg Asta.20[22m
+
+> 🥷🏻 [1mCanal oficial del creador del bot  :[22m
+[94mhttps://whatsapp.com/channel/0029VbBcXc8Chq6GmExvhU1l[39m
+
+📂 [1mCreador del bot:[22m TiempoMD
+[12/31/2025, 3:52:27 PM] +51 928 567 606 ~Elvis FS > ✖️
+[12/31/2025, 3:52:41 PM] +51 939 467 706 ~Elvis > .reg Elvis.17
+[12/31/2025, 3:52:41 PM] +51 928 567 606 ~Elvis FS > > [1m🌿!*[22mR E G I S T R O  M Á G I C O*
+
+> [1m![22m ✧──『 ⚜️ 𝗗𝗔𝗧𝗢𝗦 ⚜️ 』
+> [1m![22m 🧙‍♂️ [1mNombre:[22m Elvis
+> [1m![22m 🎂 [1mEdad:[22m 17 años
+> [1m![22m 🌍 [1mReino:[22m Heart
+> [1m![22m 🌌 [1mAfinidad:[22m 🌱 Tierra
+> [1m![22m 💠 [1mNivel Mágico:[22m 3
+> [1m![22m 📖 [1mGrimorio:[22m 📖 Grimorio Mágico
+> [1m![22m ✧────────────────✧
+
+> [1m![22m 🕯️ 𝑬𝒍 𝒗í𝒏𝒄𝒖𝒍𝒐 𝒎á𝒈𝒊𝒄𝒐 𝒔𝒆 𝒉⟮ 𝒆𝒔𝒕𝒂𝒃𝒍𝒆𝒄𝒊𝒅𝒐.
+> [1m🌿![22m ⚔️ 𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐, [1mELVIS[22m 𝒅𝒆𝒍 𝑹𝒆𝒊𝒏𝒐 Heart.
+> [1m![22m ☘️ ¡𝑬𝒍 𝒅𝒆𝒔𝒕𝒊𝒏𝒐 𝒕𝒆 𝒂𝒈𝒖𝒂𝒓𝒅𝒂!
+[12/31/2025, 4:01:49 PM] undefined > .menu
+[12/31/2025, 4:01:53 PM] +51 928 567 606 ~Elvis FS > 🧾 [1mNO REGISTRADO EN EL SISTEMA[22m
+
+> 🚫 [1mAcceso denegado:[22m No puedes usar los comandos sin registrarte.
+
+🔐 Regístrate con: [1m/reg nombre.edad[22m
+📍 Ejemplo: [1m/reg Asta.20[22m
+
+> 🥷🏻 [1mCanal oficial del creador del bot  :[22m
+[94mhttps://whatsapp.com/channel/0029VbBcXc8Chq6GmExvhU1l[39m
+
+📂 [1mCreador del bot:[22m TiempoMD
+[12/31/2025, 4:01:54 PM] +51 928 567 606 ~Elvis FS > ✖️
+[12/31/2025, 4:06:03 PM] undefined > .menu
+[12/31/2025, 4:06:03 PM] +51 928 567 606 ~Elvis FS > ☃️
+[12/31/2025, 4:06:05 PM] +51 928 633 895 ~Alex > .menu
+[12/31/2025, 4:06:05 PM] +51 928 567 606 ~Elvis FS > ⎯͟͞͞★ 🎄 𝙐𝙎𝙀𝙍 𝙎𝙏𝘼𝙏𝙐𝙎 🎄 ★͟͞͞⎯
+> 🪐 𝙉𝙤𝙢𝙗𝙧𝙚   » Alex  
+> ⚙️ 𝙉𝙞𝙫𝙚𝙡     »   
+> ⚡ 𝙀𝙭𝙥        » 217 / 69  
+> 🌐 𝙈𝙤𝙙𝙤      » Público  
+> ⏳ 𝘼𝙘𝙩𝙞𝙫𝙤   » 00:00:47  
+> 👥 𝙐𝙨𝙪𝙖𝙧𝙞𝙤𝙨 » 6  
+⋆꙳•̩̩͙❅*̩̩•̩̩͙͙‧‧₊˚🎄✩ ₊˚🦌⊹♡͙ •̩̩͙‧͙*̩̩͙❆˚₊⋆
+
+
+🎁 » 𝐌𝐄𝐍𝐔 𝐃𝐄 𝐍𝐀𝐕𝐈𝐃𝐀𝐃 🎅🏻 «  
+👑 » 𝗢𝗽𝗲𝗿𝗮𝗱𝗼𝗿:—͟͟͞͞ TiempoMD 𖣘 «
+
+
+
+⧼⋆꙳•〔 🎅🏻 ꜱɪꜱᴛᴇᴍᴀ 〕⋆꙳•⧽
+> ☃️ .formarpareja5
+
+> ☃️ .runtime
+
+> ☃️ .blocklist
+
+> ☃️ .totalfunciones
+
+> ☃️ .menu
+
+> ☃️ .menú
+
+> ☃️ .menu2
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɢʀᴜᴘᴏꜱ 〕⋆꙳•⧽
+> ☃️ .demote
+
+> ☃️ .enable <opción>
+
+> ☃️ .disable <opción>
+
+> ☃️ .staff
+
+> ☃️ .admins
+
+> ☃️ .listadmin
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜱᴜʙ ʙᴏᴛꜱ 〕⋆꙳•⧽
+> ☃️ .qr
+
+> ☃️ .code
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴀɴɪᴍᴇ 〕⋆꙳•⧽
+> ☃️ .animelink
+
+> ☃️ .infoanime
+
+> ☃️ .topwaifus [página]
+
+> ☃️ .wvideo <nombre del personaje>
+
+> ☃️ .wimage <nombre del personaje>
+
+> ☃️ .charinfo <nombre del personaje>
+
+> ☃️ .winfo <nombre del personaje>
+
+> ☃️ .waifuinfo <nombre del personaje>
+
+> ☃️ .alisa
+
+> ☃️ .aihoshino
+
+> ☃️ .remcham
+
+> ☃️ .akira
+
+> ☃️ .akiyama
+
+> ☃️ .anna
+
+> ☃️ .asuna
+
+> ☃️ .ayuzawa
+
+> ☃️ .boruto
+
+> ☃️ .chiho
+
+> ☃️ .chitoge
+
+> ☃️ .deidara
+
+> ☃️ .erza
+
+> ☃️ .elaina
+
+> ☃️ .eba
+
+> ☃️ .emilia
+
+> ☃️ .hestia
+
+> ☃️ .hinata
+
+> ☃️ .inori
+
+> ☃️ .isuzu
+
+> ☃️ .itachi
+
+> ☃️ .itori
+
+> ☃️ .kaga
+
+> ☃️ .kagura
+
+> ☃️ .kaori
+
+> ☃️ .keneki
+
+> ☃️ .kotori
+
+> ☃️ .kurumitokisaki
+
+> ☃️ .madara
+
+> ☃️ .mikasa
+
+> ☃️ .miku
+
+> ☃️ .minato
+
+> ☃️ .naruto
+
+> ☃️ .nezuko
+
+> ☃️ .sagiri
+
+> ☃️ .sasuke
+
+> ☃️ .sakura
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴀᴜᴅɪᴏ 〕⋆꙳•⧽
+> ☃️ .bass [vn]
+
+> ☃️ .blown [vn]
+
+> ☃️ .deep [vn]
+
+> ☃️ .earrape [vn]
+
+> ☃️ .fast [vn]
+
+> ☃️ .fat [vn]
+
+> ☃️ .nightcore [vn]
+
+> ☃️ .reverse [vn]
+
+> ☃️ .robot [vn]
+
+> ☃️ .slow [vn]
+
+> ☃️ .smooth [vn]
+
+> ☃️ .tupai [vn]
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʙᴜꜱᴄᴀᴅᴏʀ 〕⋆꙳•⧽
+> ☃️ .pornhubsearch
+
+> ☃️ .githubsearch
+
+> ☃️ .mercadolibre <búsqueda>
+
+> ☃️ .gitclone
+
+> ☃️ .xnxxsearch <query>
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɴꜱꜰᴡ 〕⋆꙳•⧽
+> ☃️ .undefined
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴅᴏᴡɴʟᴏᴀᴅ 〕⋆꙳•⧽
+> ☃️ .pinterest
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴛʀᴀɴꜱꜰᴏʀᴍᴀᴅᴏʀ 〕⋆꙳•⧽
+> ☃️ .togifaud
+
+> ☃️ .tourl2
+
+> ☃️ .tourl
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʜᴇʀʀᴀᴍɪᴇɴᴛᴀꜱ 〕⋆꙳•⧽
+> ☃️ .toimg
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴅᴇꜱᴄᴀʀɢᴀꜱ 〕⋆꙳•⧽
+> ☃️ .undefined
+
+> ☃️ .pornhubdl
+
+> ☃️ .spotify <canción>
+
+> ☃️ .ytmp4doc
+
+> ☃️ .ytmp3
+
+> ☃️ .ytmp3doc
+
+> ☃️ .ytmp4
+
+> ☃️ .facebook
+
+> ☃️ .fb
+
+> ☃️ .instagram
+
+> ☃️ .ig
+
+> ☃️ .mediafire
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʙᴜꜱǫᴜᴇᴅᴀ 〕⋆꙳•⧽
+> ☃️ .spotify <canción>
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴅʟ 〕⋆꙳•⧽
+> ☃️ .tiktok
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜰᴜɴ 〕⋆꙳•⧽
+> ☃️ .acertijo
+
+> ☃️ .gay <@tag> | <nombre>
+
+> ☃️ .lesbiana <@tag> | <nombre>
+
+> ☃️ .pajero <@tag> | <nombre>
+
+> ☃️ .pajera <@tag> | <nombre>
+
+> ☃️ .puto <@tag> | <nombre>
+
+> ☃️ .puta <@tag> | <nombre>
+
+> ☃️ .manco <@tag> | <nombre>
+
+> ☃️ .manca <@tag> | <nombre>
+
+> ☃️ .rata <@tag> | <nombre>
+
+> ☃️ .prostituta <@tag> | <nombre>
+
+> ☃️ .prostituto <@tag> | <nombre>
+
+> ☃️ .consejo
+
+> ☃️ .doxear
+
+> ☃️ .formarpareja5
+
+> ☃️ .math
+
+> ☃️ .meme
+
+> ☃️ .personalidad
+
+> ☃️ .piropo
+
+> ☃️ .pokedex [1m<pokemon>[22m
+
+> ☃️ .ppt
+
+> ☃️ .dormir @tag
+
+> ☃️ .reto
+
+> ☃️ .ruleta [1m<cantidad> <color>[22m
+
+> ☃️ .top [1m<texto>[22m
+
+> ☃️ .zodiac [1m2002 02 25[22m
+
+> ☃️ .amistad
+
+> ☃️ .facto
+
+> ☃️ .grabboobs/agarrartetas @tag
+
+> ☃️ .love
+
+> ☃️ .mamada @tag
+
+> ☃️ .memev
+
+> ☃️ .pajeame
+
+> ☃️ .formartrio @usuario1 @usuario2
+
+> ☃️ .verdad
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴇᴍᴏx 〕⋆꙳•⧽
+> ☃️ .agarrarnalgas @tag
+
+> ☃️ .chuparpata @tag
+
+> ☃️ .cry/llorar @tag
+
+> ☃️ .angry/enojado
+
+> ☃️ .blush/sonrojarse
+
+> ☃️ .cuddle/acurrucarse
+
+> ☃️ .dance/bailar
+
+> ☃️ .drunk/borracho
+
+> ☃️ .hello/hola
+
+> ☃️ .kiss/besar
+
+> ☃️ .kiss2/besar2
+
+> ☃️ .love2/enamorada/enamorado
+
+> ☃️ .grabboobs/agarrartetas @tag
+
+> ☃️ .hug/abrazar @tag
+
+> ☃️ .patt/acariciar @tag
+
+> ☃️ .sleep/dormir @tag
+
+> ☃️ .penetrar @user
+
+> ☃️ .punch/golpear @tag
+
+> ☃️ .scared/asustada @tag
+
+> ☃️ .sexo/sex @tag
+
+> ☃️ .violar/perra @tag
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴇᴄᴏɴᴏᴍʏ 〕⋆꙳•⧽
+> ☃️ .undefined
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɴꜱꜰᴡꜱ 〕⋆꙳•⧽
+> ☃️ .follar @tag
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɢʀᴜᴘᴏ 〕⋆꙳•⧽
+> ☃️ .add
+
+> ☃️ .group <abrir/cerrar>
+
+> ☃️ .grupo <abrir/cerrar>
+
+> ☃️ .encuesta <text|text2>
+
+> ☃️ .undefined
+
+> ☃️ .hidetag
+
+> ☃️ .infogrupo
+
+> ☃️ .invite [1m<numero>[22m
+
+> ☃️ .link
+
+> ☃️ .listadv
+
+> ☃️ .promote
+
+> ☃️ .revoke
+
+> ☃️ .tagall [1m<mesaje>[22m
+
+> ☃️ .invocar [1m<mesaje>[22m
+
+> ☃️ .kick @usuario
+
+> ☃️ .set
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴀɪ 〕⋆꙳•⧽
+> ☃️ .toanime
+
+> ☃️ .toghibli
+
+> ☃️ .suno <prompt>
+
+> ☃️ .chatgpt <texto>
+
+> ☃️ .ia <texto>
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴛᴏᴏʟꜱ 〕⋆꙳•⧽
+> ☃️ .fake
+
+> ☃️ .ssweb
+
+> ☃️ .ss
+
+> ☃️ .trad
+
+> ☃️ .spamwa <number>|<mesage>|<no of messages>
+
+> ☃️ .nuevafotochannel
+
+> ☃️ .nosilenciarcanal
+
+> ☃️ .silenciarcanal
+
+> ☃️ .noseguircanal
+
+> ☃️ .seguircanal
+
+> ☃️ .avisoschannel
+
+> ☃️ .resiviravisos
+
+> ☃️ .inspect
+
+> ☃️ .inspeccionar
+
+> ☃️ .eliminarfotochannel
+
+> ☃️ .reactioneschannel
+
+> ☃️ .reaccioneschannel
+
+> ☃️ .nuevonombrecanal
+
+> ☃️ .nuevadescchannel
+
+> ☃️ .upscale
+
+> ☃️ .gemini
+
+> ☃️ .bard
+
+> ☃️ .openai
+
+> ☃️ .dalle
+
+> ☃️ .flux
+
+> ☃️ .gpt
+
+> ☃️ .chatgpt
+
+> ☃️ .luminai
+
+> ☃️ .iavoz
+
+> ☃️ .aivoz
+
+> ☃️ .vozia
+
+> ☃️ .inspect
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴏᴡɴᴇʀ 〕⋆꙳•⧽
+> ☃️ .expired [1m<días>[22m
+
+> ☃️ .addprem [@user] <days>
+
+> ☃️ .copia
+
+> ☃️ .banuser <@tag>
+
+> ☃️ .cleartmp
+
+> ☃️ .dsowner
+
+> ☃️ > 
+
+> ☃️ => 
+
+> ☃️ $
+
+> ☃️ .ip <alamat ip>
+
+> ☃️ .join <link>
+
+> ☃️ .grupocrear <nombre>
+
+> ☃️ .nuevonombrebot <teks>
+
+> ☃️ .resetpersonajes
+
+> ☃️ .restart
+
+> ☃️ .update
+
+> ☃️ .actualizar
+
+> ☃️ .enable <opción>
+
+> ☃️ .disable <opción>
+
+> ☃️ .clearsubs
+
+> ☃️ .reunion
+
+> ☃️ .meeting
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴄʀᴇᴀᴅᴏʀ 〕⋆꙳•⧽
+> ☃️ .autoadmin
+
+> ☃️ .broadcast
+
+> ☃️ .bc
+
+> ☃️ .broadcastgroup
+
+> ☃️ .bcgc
+
+> ☃️ .bcgc2
+
+> ☃️ .bcg
+
+> ☃️ .broadcast
+
+> ☃️ .bc3
+
+> ☃️ .cheat
+
+> ☃️ .delprem <@user>
+
+> ☃️ .fetch
+
+> ☃️ .get
+
+> ☃️ .undefined
+
+> ☃️ .unbanuser <@tag>
+
+> ☃️ .cleardb
+
+> ☃️ .cleartmp
+
+> ☃️ .clearlogs
+
+> ☃️ .añadirmonedas @usuario cantidad
+
+> ☃️ .groups
+
+> ☃️ .grouplist
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜰɪx 〕⋆꙳•⧽
+> ☃️ .dsowner
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʀᴘɢ 〕⋆꙳•⧽
+> ☃️ .sacrificar <nombre>
+
+> ☃️ .cazar
+
+> ☃️ .daily
+
+> ☃️ .claim
+
+> ☃️ .escudo <horas>
+
+> ☃️ .cambiarexp <cantidad>
+
+> ☃️ .explorar
+
+> ☃️ .invocacion
+
+> ☃️ .levelup
+
+> ☃️ .listarpersonajes
+
+> ☃️ .minar
+
+> ☃️ .miestatus
+
+> ☃️ .mimonedas
+
+> ☃️ .miexp
+
+> ☃️ .mispersonajes
+
+> ☃️ .mispjs
+
+> ☃️ .inventario
+
+> ☃️ .comprarpersonaje <nombre>
+
+> ☃️ .reinado
+
+> ☃️ .reinado reset
+
+> ☃️ .rob2
+
+> ☃️ .rob
+
+> ☃️ .toppersonajes
+
+> ☃️ .trabajar
+
+> ☃️ .work
+
+> ☃️ .transferir [1m@usuario cantidad[22m
+
+> ☃️ .invasionzombie
+
+> ☃️ .menurpg
+
+> ☃️ .tenertodo
+
+> ☃️ .lb [página]
+
+> ☃️ .bank
+
+> ☃️ .banco
+
+> ☃️ .cajamisteriosa
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴇᴄᴏɴ 〕⋆꙳•⧽
+> ☃️ .cambiarexp <cantidad>
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴇᴄᴏɴᴏᴍɪᴀ 〕⋆꙳•⧽
+> ☃️ .listarpersonajes
+
+> ☃️ .miestatus
+
+> ☃️ .mimonedas
+
+> ☃️ .miexp
+
+> ☃️ .mispersonajes
+
+> ☃️ .mispjs
+
+> ☃️ .inventario
+
+> ☃️ .trabajar
+
+> ☃️ .work
+
+> ☃️ .transferir [1m@usuario cantidad[22m
+
+> ☃️ .cajamisteriosa
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʀᴀɴᴋɪɴɢ 〕⋆꙳•⧽
+> ☃️ .reinado
+
+> ☃️ .reinado reset
+
+> ☃️ .toppersonajes
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜱᴛɪᴄᴋᴇʀ 〕⋆꙳•⧽
+> ☃️ .qc <texto>
+
+> ☃️ .take <nombre>|<autor>
+
+> ☃️ .sticker <imagen|video|url>
+
+> ☃️ .stiker <imagen|video|url>
+
+> ☃️ .s <imagen|video|url>
+
+> ☃️ .n
+
+> ☃️ .nota
+
+> ☃️ .Nota
+
+> ☃️ .notavid <texto>
+
+> ☃️ .pat
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜰᴜɴᴄᴛɪᴏɴ ᴘɪɴɢ 〕⋆꙳•⧽
+> ☃️ .ping
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴅᴏᴡɴʟᴏᴀᴅᴇʀ 〕⋆꙳•⧽
+> ☃️ .tiktoksearch <texto>
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜱᴇᴀʀᴄʜ 〕⋆꙳•⧽
+> ☃️ .ytsearch [1m<texto>[22m
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɢᴀᴄʜᴀ 〕⋆꙳•⧽
+> ☃️ .desbloquear @usuario
+
+> ☃️ .antirobo <hora|dia|semana|mes>
+
+> ☃️ .claim
+
+> ☃️ .listawaifus
+
+> ☃️ .miswaifus
+
+> ☃️ .resetwaifus
+
+> ☃️ .robarwaifu <id>
+
+> ☃️ .robawaifu <id>
+
+> ☃️ .ver
+
+> ☃️ .rw
+
+> ☃️ .rollwaifu
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɪᴍᴀɢᴇ 〕⋆꙳•⧽
+> ☃️ .upscale
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɪɴꜰᴏ 〕⋆꙳•⧽
+> ☃️ .creador
+
+> ☃️ .owner
+
+> ☃️ .status
+
+> ☃️ .grupos
+
+> ☃️ .script
+
+> ☃️ .reportar
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜱᴜʙʙᴏᴛ 〕⋆꙳•⧽
+> ☃️ .personalizar
+
+> ☃️ .setmenuimg
+
+> ☃️ .setmenutitle
+
+> ☃️ .subpfp
+
+> ☃️ .subimagen
+
+> ☃️ .substatus
+
+> ☃️ .subbio
+
+> ☃️ .subusername
+
+> ☃️ .subuser
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴊᴀᴅɪʙᴏᴛ 〕⋆꙳•⧽
+> ☃️ .bots
+
+> ☃️ .token
+
+> ☃️ .gettoken
+
+> ☃️ .serbottoken
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɢʀᴜᴘᴏꜱ 〕⋆꙳•⧽
+> ☃️ .undefined
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʀɢ 〕⋆꙳•⧽
+> ☃️ .profile
+
+> ☃️ .unreg
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴘʀᴇᴍɪᴜᴍ 〕⋆꙳•⧽
+> ☃️ .comprarpremium <cantidad> <unidad>
+
+> ☃️ .listavip
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴊᴜᴇɢᴏꜱ 〕⋆꙳•⧽
+> ☃️ .cajamisteriosa
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⌬ 𝗖𝗬𝗕𝗘𝗥 𝗠𝗘𝗡𝗨 ❄️ - Sistema ejecutado con éxito.
+[12/31/2025, 4:06:05 PM] +51 928 567 606 ~Elvis FS > 🧾 [1mNO REGISTRADO EN EL SISTEMA[22m
+
+> 🚫 [1mAcceso denegado:[22m No puedes usar los comandos sin registrarte.
+
+🔐 Regístrate con: [1m/reg nombre.edad[22m
+📍 Ejemplo: [1m/reg Asta.20[22m
+
+> 🥷🏻 [1mCanal oficial del creador del bot  :[22m
+[94mhttps://whatsapp.com/channel/0029VbBcXc8Chq6GmExvhU1l[39m
+
+📂 [1mCreador del bot:[22m Elvis SF
+[12/31/2025, 4:06:05 PM] +51 928 567 606 ~Elvis FS > ✖️
+[12/31/2025, 4:09:42 PM] +51 928 567 606 ~Elvis FS > Buenas soy Elvis SF
+[12/31/2025, 4:16:25 PM] undefined > .unreg
+[12/31/2025, 4:16:27 PM] +51 928 567 606 ~Elvis FS > 🧾 [1mNO REGISTRADO EN EL SISTEMA[22m
+
+> 🚫 [1mAcceso denegado:[22m No puedes usar los comandos sin registrarte.
+
+🔐 Regístrate con: [1m/reg nombre.edad[22m
+📍 Ejemplo: [1m/reg Asta.20[22m
+
+> 🥷🏻 [1mCanal oficial del creador del bot  :[22m
+[94mhttps://whatsapp.com/channel/0029VbBcXc8Chq6GmExvhU1l[39m
+
+📂 [1mCreador del bot:[22m Elvis SF
+[12/31/2025, 4:16:27 PM] +51 928 567 606 ~Elvis FS > ✖️
+[12/31/2025, 4:28:38 PM] undefined > Have a cluck-tastic New Year!
+
+Be the chicken jockey you want to see in the world! Enter 2026 in egg-squisite style with the Inflatable Chicken Suit Character Creator item. Get it for free in the Bedrock Edition Dressing Room!
+[12/31/2025, 8:39:58 PM] undefined > .reg david13
+[12/31/2025, 8:39:58 PM] +51 928 567 606 ~Elvis FS > ⚠️ Formato incorrecto. Usa:
+[1m.reg Nombre.Edad[22m
+
+Ejemplo:
+[1m.reg Asta.18[22m
+[12/31/2025, 8:40:41 PM] undefined > .fb [94mhttps://www.facebook.com/share/v/1Fp6YjAQui/[39m
+[12/31/2025, 8:40:43 PM] +51 928 567 606 ~Elvis FS > 🧾 [1mNO REGISTRADO EN EL SISTEMA[22m
+
+> 🚫 [1mAcceso denegado:[22m No puedes usar los comandos sin registrarte.
+
+🔐 Regístrate con: [1m/reg nombre.edad[22m
+📍 Ejemplo: [1m/reg Asta.20[22m
+
+> 🥷🏻 [1mCanal oficial del creador del bot  :[22m
+[94mhttps://whatsapp.com/channel/0029VbBcXc8Chq6GmExvhU1l[39m
+
+📂 [1mCreador del bot:[22m Elvis SF
+[12/31/2025, 8:40:43 PM] +51 928 567 606 ~Elvis FS > ✖️
+[12/31/2025, 8:41:01 PM] undefined > .reg David.16
+[12/31/2025, 8:41:01 PM] +51 928 567 606 ~Elvis FS > > [1m🌿!*[22mR E G I S T R O  M Á G I C O*
+
+> [1m![22m ✧──『 ⚜️ 𝗗𝗔𝗧𝗢𝗦 ⚜️ 』
+> [1m![22m 🧙‍♂️ [1mNombre:[22m David
+> [1m![22m 🎂 [1mEdad:[22m 16 años
+> [1m![22m 🌍 [1mReino:[22m Clover
+> [1m![22m 🌌 [1mAfinidad:[22m 🌞 Luz
+> [1m![22m 💠 [1mNivel Mágico:[22m 10
+> [1m![22m 📖 [1mGrimorio:[22m 📖 Grimorio Mágico
+> [1m![22m ✧────────────────✧
+
+> [1m![22m 🕯️ 𝑬𝒍 𝒗í𝒏𝒄𝒖𝒍𝒐 𝒎á𝒈𝒊𝒄𝒐 𝒔𝒆 𝒉⟮ 𝒆𝒔𝒕𝒂𝒃𝒍𝒆𝒄𝒊𝒅𝒐.
+> [1m🌿![22m ⚔️ 𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐, [1mDAVID[22m 𝒅𝒆𝒍 𝑹𝒆𝒊𝒏𝒐 Clover.
+> [1m![22m ☘️ ¡𝑬𝒍 𝒅𝒆𝒔𝒕𝒊𝒏𝒐 𝒕𝒆 𝒂𝒈𝒖𝒂𝒓𝒅𝒂!
+[12/31/2025, 8:41:09 PM] +51 928 567 606 ~Elvis FS > 🕒
+[12/31/2025, 8:41:10 PM] +51 928 567 606 ~Elvis FS > 🕒 [1mDescargando su video de Facebook.[22m
+[12/31/2025, 8:41:14 PM] +51 928 567 606 ~Elvis FS > 🕒
+[12/31/2025, 8:41:14 PM] +51 928 567 606 ~Elvis FS > 🕒
+[12/31/2025, 8:41:16 PM] +51 928 567 606 ~Elvis FS > 🚩 [1mVideo de Facebook[22m
+[12/31/2025, 8:41:16 PM] undefined > .fb [94mhttps://www.facebook.com/share/v/1Fp6YjAQui/[39m
+[12/31/2025, 8:41:16 PM] +51 928 567 606 ~Elvis FS > ✅
+[12/31/2025, 8:41:55 PM] +51 928 567 606 ~Elvis FS > ⌛
+[12/31/2025, 8:41:58 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5ML51sM/[39m
+[12/31/2025, 8:41:58 PM] +51 928 567 606 ~Elvis FS > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Jorge Cuéllar
+◦ 📌 [1mTítulo:[22m 
+◦ ⏱️ [1mDuración:[22m 14
+[12/31/2025, 8:41:58 PM] +51 928 567 606 ~Elvis FS > ✅
+[12/31/2025, 8:44:47 PM] +51 928 567 606 ~Elvis FS > ⌛
+[12/31/2025, 8:44:48 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5MNho5N/[39m
+[12/31/2025, 8:44:48 PM] +51 928 567 606 ~Elvis FS > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Mxcl
+◦ 📌 [1mTítulo:[22m #viral #xuhuong #xyzbca 
+◦ ⏱️ [1mDuración:[22m 9
+[12/31/2025, 8:44:49 PM] +51 928 567 606 ~Elvis FS > ✅
+[12/31/2025, 8:49:15 PM] +51 928 567 606 ~Elvis FS > ⌛
+[12/31/2025, 8:49:18 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5MNDock/[39m
+[12/31/2025, 8:49:18 PM] +51 928 567 606 ~Elvis FS > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m ꧁🦋✨ᴛᴜs_ꜰʀᴀsᴇs✨🦋꧂
+◦ 📌 [1mTítulo:[22m #frasesdeamor #paratiiii #foryoupage #fypシ゚ #parejas 
+◦ ⏱️ [1mDuración:[22m 31
+[12/31/2025, 8:49:18 PM] +51 928 567 606 ~Elvis FS > ✅
+[12/31/2025, 8:52:28 PM] +51 928 567 606 ~Elvis FS > ⌛
+[12/31/2025, 8:52:31 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5MNTAKK/[39m
+[12/31/2025, 8:52:31 PM] +51 928 567 606 ~Elvis FS > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m [94midk.se[39mleee
+◦ 📌 [1mTítulo:[22m Seré la loca de los gatos 🫶🏼#xybca #fyp 
+◦ ⏱️ [1mDuración:[22m 19
+[12/31/2025, 8:52:31 PM] +51 928 567 606 ~Elvis FS > ✅
+[12/31/2025, 8:54:54 PM] +51 928 567 606 ~Elvis FS > ⌛
+[12/31/2025, 8:54:58 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5MNodsS/[39m
+[12/31/2025, 8:54:58 PM] +51 928 567 606 ~Elvis FS > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m 🕷️❤️‍🩹
+◦ 📌 [1mTítulo:[22m #fypシ゚viral #foryourpage #sigodetrasdetualma #f #r 
+◦ ⏱️ [1mDuración:[22m 13
+[12/31/2025, 8:54:58 PM] +51 928 567 606 ~Elvis FS > ✅
+[12/31/2025, 9:18:01 PM] +51 928 567 606 ~Elvis FS > ⌛
+[12/31/2025, 9:18:03 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5MY9rNS/[39m
+[12/31/2025, 9:18:03 PM] +51 928 567 606 ~Elvis FS > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m 晨晨
+◦ 📌 [1mTítulo:[22m 艾特那个陪伴你的人#治愈 #爱情 #动漫 
+◦ ⏱️ [1mDuración:[22m 42
+[12/31/2025, 9:18:03 PM] +51 928 567 606 ~Elvis FS > ✅
+[1/1/2026, 5:53:47 PM] undefined > .ping
+[1/1/2026, 5:53:48 PM] +51 928 633 895 ~Alex > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0023 ms
+
+✞ Actividad:
+> ⤿ 00:02:13
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 1.53 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/1/2026, 5:54:02 PM] +51 928 633 895 ~Alex > .ping
+[1/1/2026, 5:54:03 PM] +51 928 633 895 ~Alex > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0013 ms
+
+✞ Actividad:
+> ⤿ 00:02:29
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 1.53 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/1/2026, 5:54:17 PM] +51 928 633 895 ~Alex > .tt
+[1/1/2026, 5:54:17 PM] +51 928 633 895 ~Alex > 🥷 Debes ingresar un enlace de TikTok.
+
+📌 [1mEjemplo:[22m .tt [94mhttps://vm.tiktok.com/ZMreHF2dC/[39m
+[1/1/2026, 5:54:34 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 5:54:36 PM] +51 928 633 895 ~Alex > .tt [94mhttps://vt.tiktok.com/ZS5hN7Gy7/[39m
+[1/1/2026, 5:54:36 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m savriter
+◦ 📌 [1mTítulo:[22m #techtok #linux #pc #fyp #opsec 
+◦ ⏱️ [1mDuración:[22m 23
+[1/1/2026, 5:54:36 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 6:05:05 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 6:05:11 PM] undefined > .tt [94mhttps://www.tiktok.com/@marvelleditzzz/video/7588506800559820050?_r=1&u_code=elc06lj95iimad&preview_pb=0&sharer_language=es&_d=f0h9c2f53ma3lj&share_item_id=7588506800559820050&source=h5_m&timestamp=1767290680&user_id=7528162414786053140&sec_user_id=MS4wLjABAAAAiYr0ABMvyjGYBZZiObdelx-MFSsYdLB8EjMty1hJT4iNl_JrjleuP07nS8EmW7Nf&item_author_type=2&social_share_type=0&utm_source=whatsapp_business&utm_campaign=client_share&utm_medium=android&share_iid=7577139794552588040&share_link_id=9a18a5a2-55ef-45fa-ad56-f4365c1435b7&share_app_id=1233&ugbiz_name=MAIN&ug_btm=b2001&link_reflow_popup_iteration_sharer=%7B%22click_empty_to_play%22%3A1%2C%22dynamic_cover%22%3A1%2C%22follow_to_play_duration%22%3A-1.0%2C%22profile_clickable%22%3A1%7D&enable_checksum=1[39m
+[1/1/2026, 6:05:11 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Movie-Maven
+◦ 📌 [1mTítulo:[22m ＂I've Come To Bargain＂ ｜ Doctor Strange Edit ｜ Song - AL NACER! ctto - Movie-Maven#marveledit #doctorstrange #edit #fyp #viral
+◦ ⏱️ [1mDuración:[22m 48
+[1/1/2026, 6:05:11 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 6:24:05 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 6:24:09 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hMgqLP/[39m
+[1/1/2026, 6:24:09 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Avengers
+◦ 📌 [1mTítulo:[22m Tony Stark en el Juicio #fyp #tonystark #ironmanedit #robertdowneyjr #parati #ucm 
+◦ ⏱️ [1mDuración:[22m 143
+[1/1/2026, 6:24:10 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 6:25:19 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 6:25:20 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hraYuC/[39m
+[1/1/2026, 6:25:20 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m ✦.˚ 𝒏𝒐𝒏𝒐𝒃𝒂𝒂𝒎 ˚.✦
+◦ 📌 [1mTítulo:[22m Esa eres tú. #ironman #robertdowneyjr #tonystark #frases #teamo #explorepage✨ #4k #trending #peperpotts 
+◦ ⏱️ [1mDuración:[22m 24
+[1/1/2026, 6:25:21 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 6:26:23 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 6:26:25 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hrf7Up/[39m
+[1/1/2026, 6:26:25 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m ⧗ IRON ⎊ SMASHER ᗢ
+◦ 📌 [1mTítulo:[22m El mejor 🤑 #ironsmasher #marvel #ucm #ironman #tonystark #mcu #edit #avengers #viral (CONTENIDO ORIGINAL) (FAKE ALL)
+◦ ⏱️ [1mDuración:[22m 20
+[1/1/2026, 6:26:25 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 6:27:09 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 6:27:11 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hrRURs/[39m
+[1/1/2026, 6:27:11 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Prescott's
+◦ 📌 [1mTítulo:[22m ⇢ ˗ˏˋ #TONYSTARK — yo | #ucm #marvel #ironman #tonystark 
+◦ ⏱️ [1mDuración:[22m 8
+[1/1/2026, 6:27:11 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 6:28:38 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 6:28:41 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hrLpDt/[39m
+[1/1/2026, 6:28:41 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Pedrito Cortés7⚡
+◦ 📌 [1mTítulo:[22m obvio🥺❤️‍🩹#tonystark #ironmanedit #robertdowneyjr #mcu
+◦ ⏱️ [1mDuración:[22m 12
+[1/1/2026, 6:28:42 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 6:31:30 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 6:31:32 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hrQ8d9/[39m
+[1/1/2026, 6:31:32 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m ⧗ IRON ⎊ SMASHER ᗢ
+◦ 📌 [1mTítulo:[22m Por eso es el gran Tony Stark. 🔥 #ironsmasher #marvel #ironman #tonystark #viral (CONTENIDO ORIGINAL) (FAKE ALL)
+◦ ⏱️ [1mDuración:[22m 33
+[1/1/2026, 6:31:32 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 6:32:36 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 6:32:38 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hr3QXM/[39m
+[1/1/2026, 6:32:38 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Mcfly JF
+◦ 📌 [1mTítulo:[22m Ay cosas que nunca se olvidan. #ironman #depresion #marvel #avengers #tonystark #sad 
+◦ ⏱️ [1mDuración:[22m 18
+[1/1/2026, 6:32:38 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 7:18:23 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 7:18:25 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hkHfUD/[39m
+[1/1/2026, 7:18:25 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m 𝐴𝑠𝑡𝑟𝑎𝑙 𝐾𝑎𝑠𝑎𝑚𝑖死
+◦ 📌 [1mTítulo:[22m Parte 3|| el Aura de Tony starck☠️☠️🔥🔥#tonystark #tonystarkedit #ironmanedit #ironman #avengers 
+◦ ⏱️ [1mDuración:[22m 49
+[1/1/2026, 7:18:27 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 7:18:30 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hkEYxg/[39m
+[1/1/2026, 7:18:30 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m SandMan
+◦ 📌 [1mTítulo:[22m TONY Se Reecuentra Con Su Padre #tonystark #howardstark #avengers #ironman #marvel 
+◦ ⏱️ [1mDuración:[22m 48
+[1/1/2026, 7:18:31 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 7:19:10 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 7:19:10 PM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hrKDw8/[39m
+[1/1/2026, 7:19:10 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m 6the_Nine9
+◦ 📌 [1mTítulo:[22m OTRA VEZ NO...👤❤️‍🩹❤️‍🩹#tonystark #ironman #ironman #tonystark #Frasesdepeliculas #Frasesdepeliculas #frasesad🥀💔 #ironman#tonystark #Frasesdepeliculas 
+◦ ⏱️ [1mDuración:[22m 13
+[1/1/2026, 7:19:11 PM] +51 928 633 895 ~Alex > ✅
+[1/1/2026, 7:19:20 PM] +51 928 633 895 ~Alex > ⌛
+[1/1/2026, 7:19:21 PM] undefined > .tt [94mhttps://www.tiktok.com/@iron.smasher/video/7517092251898481933?_r=1&u_code=elc06lj95iimad&preview_pb=0&sharer_language=es&_d=f0h9c2f53ma3lj&share_item_id=7517092251898481933&source=h5_m&timestamp=1767292435&user_id=7528162414786053140&sec_user_id=MS4wLjABAAAAiYr0ABMvyjGYBZZiObdelx-MFSsYdLB8EjMty1hJT4iNl_JrjleuP07nS8EmW7Nf&item_author_type=2&social_share_type=0&utm_source=whatsapp_business&utm_campaign=client_share&utm_medium=android&share_iid=7577139794552588040&share_link_id=fd60ca48-7f13-4a9d-b034-c27fb5f0849a&share_app_id=1233&ugbiz_name=MAIN&ug_btm=b6880%2Cb2878&link_reflow_popup_iteration_sharer=%7B%22click_empty_to_play%22%3A1%2C%22dynamic_cover%22%3A1%2C%22follow_to_play_duration%22%3A-1.0%2C%22profile_clickable%22%3A1%7D&enable_checksum=1[39m
+[1/1/2026, 7:19:21 PM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m ⧗ IRON ⎊ SMASHER ᗢ
+◦ 📌 [1mTítulo:[22m Frase iconica. 🔥 #ironsmasher #marvel #ucm #ironman #tonystark #avengers #edit #mcu #rdj #viral (CONTENIDO ORIGINAL) (FAKE ALL)
+◦ ⏱️ [1mDuración:[22m 23
+[1/1/2026, 7:19:22 PM] +51 928 633 895 ~Alex > ✅
+[1/2/2026, 12:16:54 AM] +51 928 633 895 ~Alex > ⌛
+[1/2/2026, 12:16:56 AM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hXpoKy/[39m
+[1/2/2026, 12:16:56 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m elevatecgi
+◦ 📌 [1mTítulo:[22m Minecraft x Porsche 🦈 #porsche #blender3d #cgi 
+◦ ⏱️ [1mDuración:[22m 15
+[1/2/2026, 12:16:56 AM] +51 928 633 895 ~Alex > ✅
+[1/2/2026, 12:17:04 AM] +51 928 633 895 ~Alex > ⌛
+[1/2/2026, 12:17:06 AM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hCBjBu/[39m
+[1/2/2026, 12:17:06 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m hugolex07
+◦ 📌 [1mTítulo:[22m Idea de un seguidor @roberty_r , se vienen mas edits #fyp #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #edit #ucm #ironman #tonystark
+◦ ⏱️ [1mDuración:[22m 45
+[1/2/2026, 12:17:06 AM] +51 928 633 895 ~Alex > ✅
+[1/2/2026, 12:17:15 AM] +51 928 633 895 ~Alex > ⌛
+[1/2/2026, 12:17:16 AM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hH5qF1/[39m
+[1/2/2026, 12:17:16 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m <¦Motivacion¦>
+◦ 📌 [1mTítulo:[22m #mentalidad #cresimientopersonal #mentalidad #disiplina 
+◦ ⏱️ [1mDuración:[22m 22
+[1/2/2026, 12:17:17 AM] +51 928 633 895 ~Alex > ✅
+[1/2/2026, 12:42:24 AM] +51 928 633 895 ~Alex > ⌛
+[1/2/2026, 12:42:25 AM] +51 928 633 895 ~Alex > ⌛
+[1/2/2026, 12:42:25 AM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hqkm14/[39m
+[1/2/2026, 12:42:25 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m NIKO
+◦ 📌 [1mTítulo:[22m just a cave game #caredit #Minecraft #phonk 
+◦ ⏱️ [1mDuración:[22m 16
+[1/2/2026, 12:42:26 AM] +51 928 633 895 ~Alex > ✅
+[1/2/2026, 12:42:26 AM] +51 939 467 706 ~Elvis > .tt [94mhttps://vt.tiktok.com/ZS5hqkm14/[39m
+[1/2/2026, 12:42:26 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m NIKO
+◦ 📌 [1mTítulo:[22m just a cave game #caredit #Minecraft #phonk 
+◦ ⏱️ [1mDuración:[22m 16
+[1/2/2026, 12:42:27 AM] +51 928 633 895 ~Alex > ✅
+[1/2/2026, 12:51:08 AM] +51 928 633 895 ~Alex > ⌛
+[1/2/2026, 12:51:09 AM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5hbLy1X/[39m
+[1/2/2026, 12:51:09 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m hugolex07
+◦ 📌 [1mTítulo:[22m Pepper y Tony #fyp #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #edit #ironman
+◦ ⏱️ [1mDuración:[22m 28
+[1/2/2026, 12:51:09 AM] +51 928 633 895 ~Alex > ⌛
+[1/2/2026, 12:51:09 AM] +51 928 633 895 ~Alex > ✅
+[1/2/2026, 12:51:12 AM] +51 939 467 706 ~Elvis > .tt [94mhttps://vt.tiktok.com/ZS5hbLy1X/[39m
+[1/2/2026, 12:51:12 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m hugolex07
+◦ 📌 [1mTítulo:[22m Pepper y Tony #fyp #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #edit #ironman
+◦ ⏱️ [1mDuración:[22m 28
+[1/2/2026, 12:51:12 AM] +51 928 633 895 ~Alex > ✅
+[1/2/2026, 12:52:12 AM] +51 928 633 895 ~Alex > ⌛
+[1/2/2026, 12:52:13 AM] +51 939 467 706 ~Elvis > .tt [94mhttps://vt.tiktok.com/ZS5hqK1V2/[39m
+[1/2/2026, 12:52:13 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m TIMY
+◦ 📌 [1mTítulo:[22m 2 trends in 1 video #caredit #Minecraft #phonk 
+◦ ⏱️ [1mDuración:[22m 14
+[1/2/2026, 12:52:14 AM] +51 928 633 895 ~Alex > ✅
+[1/3/2026, 12:56:15 AM] +51 928 633 895 ~Alex > ⌛
+[1/3/2026, 12:56:16 AM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5kXA1UB/[39m
+[1/3/2026, 12:56:16 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Lucasigma
+◦ 📌 [1mTítulo:[22m anime dance 👊😜 #anime #l2d #manipulation #fypppppppppp
+◦ ⏱️ [1mDuración:[22m 15
+[1/3/2026, 12:56:16 AM] +51 928 633 895 ~Alex > ✅
+[1/3/2026, 12:56:19 AM] +51 928 633 895 ~Alex > ⌛
+[1/3/2026, 12:56:20 AM] +51 928 633 895 ~Alex > ⌛
+[1/3/2026, 12:56:20 AM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5SMvKQ9/[39m
+[1/3/2026, 12:56:20 AM] +51 928 633 895 ~Alex > ❌ [1mError:[22m Cannot destructure property 'title' of '[94mdata.re[39msult' as it is undefined.
+[1/3/2026, 12:56:22 AM] +51 939 467 706 ~Elvis > .tt [94mhttps://vt.tiktok.com/ZS5SMvKQ9/[39m
+[1/3/2026, 12:56:22 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m ᴳᴬᴱᴸ
+◦ 📌 [1mTítulo:[22m 
+◦ ⏱️ [1mDuración:[22m 24
+[1/3/2026, 12:56:22 AM] +51 928 633 895 ~Alex > ✅
+[1/3/2026, 12:56:25 AM] +51 928 633 895 ~Alex > ⌛
+[1/3/2026, 12:56:25 AM] +51 928 633 895 ~Alex > ⌛
+[1/3/2026, 12:56:25 AM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5SrUurj/[39m
+[1/3/2026, 12:56:25 AM] +51 928 633 895 ~Alex > ❌ [1mError:[22m Cannot destructure property 'title' of '[94mdata.re[39msult' as it is undefined.
+[1/3/2026, 12:56:26 AM] +51 939 467 706 ~Elvis > .tt [94mhttps://vt.tiktok.com/ZS5SrUurj/[39m
+[1/3/2026, 12:56:26 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m 𝐅𝐄𝐑 𝐂𝐋 ( 🍷 )
+◦ 📌 [1mTítulo:[22m 06:55 … 🫀 | #CapCut #frases #bladerunner2049 #estados #story 
+◦ ⏱️ [1mDuración:[22m 18
+[1/3/2026, 12:56:26 AM] +51 928 633 895 ~Alex > ✅
+[1/3/2026, 12:56:30 AM] +51 928 633 895 ~Alex > ⌛
+[1/3/2026, 12:56:30 AM] +51 928 633 895 ~Alex > ⌛
+[1/3/2026, 12:56:31 AM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5ShNkTv/[39m
+[1/3/2026, 12:56:31 AM] +51 928 633 895 ~Alex > ❌ [1mError:[22m Cannot destructure property 'title' of '[94mdata.re[39msult' as it is undefined.
+[1/3/2026, 12:56:31 AM] +51 939 467 706 ~Elvis > .tt [94mhttps://vt.tiktok.com/ZS5ShNkTv/[39m
+[1/3/2026, 12:56:31 AM] +51 928 633 895 ~Alex > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Angel 🩸
+◦ 📌 [1mTítulo:[22m 
+◦ ⏱️ [1mDuración:[22m 0
+[1/3/2026, 12:56:31 AM] +51 928 633 895 ~Alex > ✅
+[1/3/2026, 12:56:36 AM] +51 928 633 895 ~Alex > ⌛
+[1/3/2026, 12:56:36 AM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5SkeE2X/[39m
+[1/3/2026, 12:56:36 AM] +51 928 633 895 ~Alex > ❌ [1mError:[22m Cannot destructure property 'title' of '[94mdata.re[39msult' as it is undefined.
+[1/3/2026, 1:15:42 AM] +51 928 567 606 ~+51 928 567 606 > ⌛
+[1/3/2026, 1:15:43 AM] +51 939 467 706 ~Cuenta De Negocio > .tt [94mhttps://vt.tiktok.com/ZS5kCGRjb/[39m
+[1/3/2026, 1:15:43 AM] +51 928 567 606 ~+51 928 567 606 > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Santy_M502
+◦ 📌 [1mTítulo:[22m #Dios #jesuschrist #fypシ #WA #racha 
+◦ ⏱️ [1mDuración:[22m 16
+[1/3/2026, 1:15:44 AM] +51 928 567 606 ~+51 928 567 606 > ✅
+[1/3/2026, 1:15:46 AM] +51 928 567 606 ~+51 928 567 606 > ⌛
+[1/3/2026, 1:15:49 AM] +51 939 467 706 ~Cuenta De Negocio > .tt [94mhttps://vt.tiktok.com/ZS5kCGRjb/[39m
+[1/3/2026, 1:15:49 AM] +51 928 567 606 ~+51 928 567 606 > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Santy_M502
+◦ 📌 [1mTítulo:[22m #Dios #jesuschrist #fypシ #WA #racha 
+◦ ⏱️ [1mDuración:[22m 16
+[1/3/2026, 1:15:49 AM] +51 928 567 606 ~+51 928 567 606 > ✅
+[1/3/2026, 1:15:50 AM] +51 928 567 606 ~+51 928 567 606 > ⌛
+[1/3/2026, 1:15:52 AM] +51 939 467 706 ~Cuenta De Negocio > .tt [94mhttps://vt.tiktok.com/ZS5kQofvQ/[39m
+[1/3/2026, 1:15:52 AM] +51 928 567 606 ~+51 928 567 606 > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Dilan Habraham Atz
+◦ 📌 [1mTítulo:[22m 
+◦ ⏱️ [1mDuración:[22m 14
+[1/3/2026, 1:15:52 AM] +51 928 567 606 ~+51 928 567 606 > ✅
+[1/3/2026, 1:16:06 AM] +51 928 567 606 ~+51 928 567 606 > ⌛
+[1/3/2026, 1:16:09 AM] +51 939 467 706 ~Cuenta De Negocio > .tt [94mhttps://vt.tiktok.com/ZS5kQoUbx/[39m
+[1/3/2026, 1:16:09 AM] +51 928 567 606 ~+51 928 567 606 > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m A
+◦ 📌 [1mTítulo:[22m #fyp #frases #paz #xybca
+◦ ⏱️ [1mDuración:[22m 10
+[1/3/2026, 1:16:09 AM] +51 928 567 606 ~+51 928 567 606 > ✅
+[1/3/2026, 1:29:43 AM] +51 928 567 606 ~+51 928 567 606 > ⌛
+[1/3/2026, 1:29:44 AM] undefined > .tt [94mhttps://vt.tiktok.com/ZS5SD1LBt/[39m
+[1/3/2026, 1:29:44 AM] +51 928 567 606 ~+51 928 567 606 > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Nochedletras 🎭
+◦ 📌 [1mTítulo:[22m No soy bueno para ella #theamazingspiderman #fypシ #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #viralvideo #asieslavida🃏 
+◦ ⏱️ [1mDuración:[22m 29
+[1/3/2026, 1:29:45 AM] +51 928 567 606 ~+51 928 567 606 > ✅
+[1/9/2026, 4:39:19 PM] undefined > [94mhttps://sasuke.dynlayer.xyz/#[39m
+[1/9/2026, 4:39:26 PM] undefined > .ping
+[1/9/2026, 4:39:28 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0094 ms
+
+✞ Actividad:
+> ⤿ 00:10:18
+
+✞ Chats:
+> ⤿ 21 Chats privados
+> ⤿ 3 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 3.73 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/9/2026, 4:41:34 PM] +51 945 882 535 ~Eduardo > Por facebook busque
+[1/9/2026, 4:41:38 PM] +51 955 882 098 ~Elsa Laucata chiclla > Buenos días
+[1/9/2026, 4:41:42 PM] +51 955 882 098 ~Elsa Laucata chiclla > Está Ubicado en pavayoc  altura municipalidad cómo quien va al morro san Juan    la primera tienda  y botica  hay unas bancas para sentarse afuerita. Ahí mismo es.
+[1/9/2026, 4:41:42 PM] +51 955 882 098 ~Elsa Laucata chiclla > Si tiene un  cuarto   puede ir a verlo
+[1/9/2026, 5:10:15 PM] undefined > [94mhttps://www.roblox.com/share?code=2985989a04b96f418865769c08e72e9d&type=Server[39m
+[1/9/2026, 6:00:54 PM] undefined > .ping
+[1/9/2026, 6:00:57 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0035 ms
+
+✞ Actividad:
+> ⤿ 00:01:00
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 2.12 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/9/2026, 6:01:30 PM] +51 939 467 706 ~Elvis > .ping
+[1/9/2026, 6:01:30 PM] undefined > .ping
+[1/9/2026, 6:01:31 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0025 ms
+
+✞ Actividad:
+> ⤿ 00:01:36
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 2.82 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/9/2026, 6:01:31 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0021 ms
+
+✞ Actividad:
+> ⤿ 00:01:36
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 2.82 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/9/2026, 6:02:04 PM] +51 939 467 706 ~Elvis > .ping
+[1/9/2026, 6:02:04 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0027 ms
+
+✞ Actividad:
+> ⤿ 00:02:09
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 2.66 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/9/2026, 6:02:07 PM] +51 939 467 706 ~Elvis > .ping
+[1/9/2026, 6:02:07 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0471 ms
+
+✞ Actividad:
+> ⤿ 00:02:13
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 2.4 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/9/2026, 6:02:10 PM] +51 939 467 706 ~Elvis > .ping
+[1/9/2026, 6:02:11 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0017 ms
+
+✞ Actividad:
+> ⤿ 00:02:16
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 2.79 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/9/2026, 6:02:15 PM] +51 939 467 706 ~Elvis > .ping
+[1/9/2026, 6:02:16 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0018 ms
+
+✞ Actividad:
+> ⤿ 00:02:21
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 2.78 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/9/2026, 6:02:19 PM] +51 928 567 606 ~Elvis > ☃️
+[1/9/2026, 6:02:22 PM] +51 939 467 706 ~Elvis > .menu
+[1/9/2026, 6:02:22 PM] +51 928 567 606 ~Elvis > ⎯͟͞͞★ 🎄 𝙐𝙎𝙀𝙍 𝙎𝙏𝘼𝙏𝙐𝙎 🎄 ★͟͞͞⎯
+> 🪐 𝙉𝙤𝙢𝙗𝙧𝙚   » Elvis  
+> ⚙️ 𝙉𝙞𝙫𝙚𝙡     »   
+> ⚡ 𝙀𝙭𝙥        » 2204 / 69  
+> 🌐 𝙈𝙤𝙙𝙤      » Público  
+> ⏳ 𝘼𝙘𝙩𝙞𝙫𝙤   » 00:02:25  
+> 👥 𝙐𝙨𝙪𝙖𝙧𝙞𝙤𝙨 » 18  
+⋆꙳•̩̩͙❅*̩̩•̩̩͙͙‧‧₊˚🎄✩ ₊˚🦌⊹♡͙ •̩̩͙‧͙*̩̩͙❆˚₊⋆
+
+
+🎁 » 𝐌𝐄𝐍𝐔 𝐃𝐄 𝐍𝐀𝐕𝐈𝐃𝐀𝐃 🎅🏻 «  
+👑 » 𝗢𝗽𝗲𝗿𝗮𝗱𝗼𝗿:—͟͟͞͞ TiempoMD 𖣘 «
+
+
+
+⧼⋆꙳•〔 🎅🏻 ꜱɪꜱᴛᴇᴍᴀ 〕⋆꙳•⧽
+> ☃️ .formarpareja5
+
+> ☃️ .runtime
+
+> ☃️ .blocklist
+
+> ☃️ .totalfunciones
+
+> ☃️ .menu
+
+> ☃️ .menú
+
+> ☃️ .menu2
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɢʀᴜᴘᴏꜱ 〕⋆꙳•⧽
+> ☃️ .demote
+
+> ☃️ .enable <opción>
+
+> ☃️ .disable <opción>
+
+> ☃️ .staff
+
+> ☃️ .admins
+
+> ☃️ .listadmin
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜱᴜʙ ʙᴏᴛꜱ 〕⋆꙳•⧽
+> ☃️ .qr
+
+> ☃️ .code
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴀɴɪᴍᴇ 〕⋆꙳•⧽
+> ☃️ .animelink
+
+> ☃️ .infoanime
+
+> ☃️ .topwaifus [página]
+
+> ☃️ .wvideo <nombre del personaje>
+
+> ☃️ .wimage <nombre del personaje>
+
+> ☃️ .charinfo <nombre del personaje>
+
+> ☃️ .winfo <nombre del personaje>
+
+> ☃️ .waifuinfo <nombre del personaje>
+
+> ☃️ .alisa
+
+> ☃️ .aihoshino
+
+> ☃️ .remcham
+
+> ☃️ .akira
+
+> ☃️ .akiyama
+
+> ☃️ .anna
+
+> ☃️ .asuna
+
+> ☃️ .ayuzawa
+
+> ☃️ .boruto
+
+> ☃️ .chiho
+
+> ☃️ .chitoge
+
+> ☃️ .deidara
+
+> ☃️ .erza
+
+> ☃️ .elaina
+
+> ☃️ .eba
+
+> ☃️ .emilia
+
+> ☃️ .hestia
+
+> ☃️ .hinata
+
+> ☃️ .inori
+
+> ☃️ .isuzu
+
+> ☃️ .itachi
+
+> ☃️ .itori
+
+> ☃️ .kaga
+
+> ☃️ .kagura
+
+> ☃️ .kaori
+
+> ☃️ .keneki
+
+> ☃️ .kotori
+
+> ☃️ .kurumitokisaki
+
+> ☃️ .madara
+
+> ☃️ .mikasa
+
+> ☃️ .miku
+
+> ☃️ .minato
+
+> ☃️ .naruto
+
+> ☃️ .nezuko
+
+> ☃️ .sagiri
+
+> ☃️ .sasuke
+
+> ☃️ .sakura
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴀᴜᴅɪᴏ 〕⋆꙳•⧽
+> ☃️ .bass [vn]
+
+> ☃️ .blown [vn]
+
+> ☃️ .deep [vn]
+
+> ☃️ .earrape [vn]
+
+> ☃️ .fast [vn]
+
+> ☃️ .fat [vn]
+
+> ☃️ .nightcore [vn]
+
+> ☃️ .reverse [vn]
+
+> ☃️ .robot [vn]
+
+> ☃️ .slow [vn]
+
+> ☃️ .smooth [vn]
+
+> ☃️ .tupai [vn]
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʙᴜꜱᴄᴀᴅᴏʀ 〕⋆꙳•⧽
+> ☃️ .pornhubsearch
+
+> ☃️ .githubsearch
+
+> ☃️ .mercadolibre <búsqueda>
+
+> ☃️ .gitclone
+
+> ☃️ .xnxxsearch <query>
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɴꜱꜰᴡ 〕⋆꙳•⧽
+> ☃️ .undefined
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴅᴏᴡɴʟᴏᴀᴅ 〕⋆꙳•⧽
+> ☃️ .pinterest
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴛʀᴀɴꜱꜰᴏʀᴍᴀᴅᴏʀ 〕⋆꙳•⧽
+> ☃️ .togifaud
+
+> ☃️ .tourl2
+
+> ☃️ .tourl
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʜᴇʀʀᴀᴍɪᴇɴᴛᴀꜱ 〕⋆꙳•⧽
+> ☃️ .toimg
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴅᴇꜱᴄᴀʀɢᴀꜱ 〕⋆꙳•⧽
+> ☃️ .undefined
+
+> ☃️ .pornhubdl
+
+> ☃️ .spotify <canción>
+
+> ☃️ .ytmp4doc
+
+> ☃️ .ytmp3
+
+> ☃️ .ytmp3doc
+
+> ☃️ .ytmp4
+
+> ☃️ .facebook
+
+> ☃️ .fb
+
+> ☃️ .instagram
+
+> ☃️ .ig
+
+> ☃️ .mediafire
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʙᴜꜱǫᴜᴇᴅᴀ 〕⋆꙳•⧽
+> ☃️ .spotify <canción>
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴅʟ 〕⋆꙳•⧽
+> ☃️ .tiktok
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜰᴜɴ 〕⋆꙳•⧽
+> ☃️ .acertijo
+
+> ☃️ .gay <@tag> | <nombre>
+
+> ☃️ .lesbiana <@tag> | <nombre>
+
+> ☃️ .pajero <@tag> | <nombre>
+
+> ☃️ .pajera <@tag> | <nombre>
+
+> ☃️ .puto <@tag> | <nombre>
+
+> ☃️ .puta <@tag> | <nombre>
+
+> ☃️ .manco <@tag> | <nombre>
+
+> ☃️ .manca <@tag> | <nombre>
+
+> ☃️ .rata <@tag> | <nombre>
+
+> ☃️ .prostituta <@tag> | <nombre>
+
+> ☃️ .prostituto <@tag> | <nombre>
+
+> ☃️ .consejo
+
+> ☃️ .doxear
+
+> ☃️ .formarpareja5
+
+> ☃️ .math
+
+> ☃️ .meme
+
+> ☃️ .personalidad
+
+> ☃️ .piropo
+
+> ☃️ .pokedex [1m<pokemon>[22m
+
+> ☃️ .ppt
+
+> ☃️ .dormir @tag
+
+> ☃️ .reto
+
+> ☃️ .ruleta [1m<cantidad> <color>[22m
+
+> ☃️ .top [1m<texto>[22m
+
+> ☃️ .zodiac [1m2002 02 25[22m
+
+> ☃️ .amistad
+
+> ☃️ .facto
+
+> ☃️ .grabboobs/agarrartetas @tag
+
+> ☃️ .love
+
+> ☃️ .mamada @tag
+
+> ☃️ .memev
+
+> ☃️ .pajeame
+
+> ☃️ .formartrio @usuario1 @usuario2
+
+> ☃️ .verdad
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴇᴍᴏx 〕⋆꙳•⧽
+> ☃️ .agarrarnalgas @tag
+
+> ☃️ .chuparpata @tag
+
+> ☃️ .cry/llorar @tag
+
+> ☃️ .angry/enojado
+
+> ☃️ .blush/sonrojarse
+
+> ☃️ .cuddle/acurrucarse
+
+> ☃️ .dance/bailar
+
+> ☃️ .drunk/borracho
+
+> ☃️ .hello/hola
+
+> ☃️ .kiss/besar
+
+> ☃️ .kiss2/besar2
+
+> ☃️ .love2/enamorada/enamorado
+
+> ☃️ .grabboobs/agarrartetas @tag
+
+> ☃️ .hug/abrazar @tag
+
+> ☃️ .patt/acariciar @tag
+
+> ☃️ .sleep/dormir @tag
+
+> ☃️ .penetrar @user
+
+> ☃️ .punch/golpear @tag
+
+> ☃️ .scared/asustada @tag
+
+> ☃️ .sexo/sex @tag
+
+> ☃️ .violar/perra @tag
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴇᴄᴏɴᴏᴍʏ 〕⋆꙳•⧽
+> ☃️ .undefined
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɴꜱꜰᴡꜱ 〕⋆꙳•⧽
+> ☃️ .follar @tag
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɢʀᴜᴘᴏ 〕⋆꙳•⧽
+> ☃️ .add
+
+> ☃️ .group <abrir/cerrar>
+
+> ☃️ .grupo <abrir/cerrar>
+
+> ☃️ .encuesta <text|text2>
+
+> ☃️ .undefined
+
+> ☃️ .hidetag
+
+> ☃️ .infogrupo
+
+> ☃️ .invite [1m<numero>[22m
+
+> ☃️ .link
+
+> ☃️ .listadv
+
+> ☃️ .promote
+
+> ☃️ .revoke
+
+> ☃️ .tagall [1m<mesaje>[22m
+
+> ☃️ .invocar [1m<mesaje>[22m
+
+> ☃️ .kick @usuario
+
+> ☃️ .set
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴀɪ 〕⋆꙳•⧽
+> ☃️ .toanime
+
+> ☃️ .toghibli
+
+> ☃️ .suno <prompt>
+
+> ☃️ .chatgpt <texto>
+
+> ☃️ .ia <texto>
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴛᴏᴏʟꜱ 〕⋆꙳•⧽
+> ☃️ .fake
+
+> ☃️ .ssweb
+
+> ☃️ .ss
+
+> ☃️ .trad
+
+> ☃️ .spamwa <number>|<mesage>|<no of messages>
+
+> ☃️ .nuevafotochannel
+
+> ☃️ .nosilenciarcanal
+
+> ☃️ .silenciarcanal
+
+> ☃️ .noseguircanal
+
+> ☃️ .seguircanal
+
+> ☃️ .avisoschannel
+
+> ☃️ .resiviravisos
+
+> ☃️ .inspect
+
+> ☃️ .inspeccionar
+
+> ☃️ .eliminarfotochannel
+
+> ☃️ .reactioneschannel
+
+> ☃️ .reaccioneschannel
+
+> ☃️ .nuevonombrecanal
+
+> ☃️ .nuevadescchannel
+
+> ☃️ .upscale
+
+> ☃️ .gemini
+
+> ☃️ .bard
+
+> ☃️ .openai
+
+> ☃️ .dalle
+
+> ☃️ .flux
+
+> ☃️ .gpt
+
+> ☃️ .chatgpt
+
+> ☃️ .luminai
+
+> ☃️ .iavoz
+
+> ☃️ .aivoz
+
+> ☃️ .vozia
+
+> ☃️ .inspect
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴏᴡɴᴇʀ 〕⋆꙳•⧽
+> ☃️ .expired [1m<días>[22m
+
+> ☃️ .addprem [@user] <days>
+
+> ☃️ .copia
+
+> ☃️ .banuser <@tag>
+
+> ☃️ .cleartmp
+
+> ☃️ .dsowner
+
+> ☃️ > 
+
+> ☃️ => 
+
+> ☃️ $
+
+> ☃️ .ip <alamat ip>
+
+> ☃️ .join <link>
+
+> ☃️ .grupocrear <nombre>
+
+> ☃️ .nuevonombrebot <teks>
+
+> ☃️ .resetpersonajes
+
+> ☃️ .restart
+
+> ☃️ .update
+
+> ☃️ .actualizar
+
+> ☃️ .enable <opción>
+
+> ☃️ .disable <opción>
+
+> ☃️ .clearsubs
+
+> ☃️ .reunion
+
+> ☃️ .meeting
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴄʀᴇᴀᴅᴏʀ 〕⋆꙳•⧽
+> ☃️ .autoadmin
+
+> ☃️ .broadcast
+
+> ☃️ .bc
+
+> ☃️ .broadcastgroup
+
+> ☃️ .bcgc
+
+> ☃️ .bcgc2
+
+> ☃️ .bcg
+
+> ☃️ .broadcast
+
+> ☃️ .bc3
+
+> ☃️ .cheat
+
+> ☃️ .delprem <@user>
+
+> ☃️ .fetch
+
+> ☃️ .get
+
+> ☃️ .undefined
+
+> ☃️ .unbanuser <@tag>
+
+> ☃️ .cleardb
+
+> ☃️ .cleartmp
+
+> ☃️ .clearlogs
+
+> ☃️ .añadirmonedas @usuario cantidad
+
+> ☃️ .groups
+
+> ☃️ .grouplist
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜰɪx 〕⋆꙳•⧽
+> ☃️ .dsowner
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʀᴘɢ 〕⋆꙳•⧽
+> ☃️ .sacrificar <nombre>
+
+> ☃️ .cazar
+
+> ☃️ .daily
+
+> ☃️ .claim
+
+> ☃️ .escudo <horas>
+
+> ☃️ .cambiarexp <cantidad>
+
+> ☃️ .explorar
+
+> ☃️ .invocacion
+
+> ☃️ .levelup
+
+> ☃️ .listarpersonajes
+
+> ☃️ .minar
+
+> ☃️ .miestatus
+
+> ☃️ .mimonedas
+
+> ☃️ .miexp
+
+> ☃️ .mispersonajes
+
+> ☃️ .mispjs
+
+> ☃️ .inventario
+
+> ☃️ .comprarpersonaje <nombre>
+
+> ☃️ .reinado
+
+> ☃️ .reinado reset
+
+> ☃️ .rob2
+
+> ☃️ .rob
+
+> ☃️ .toppersonajes
+
+> ☃️ .trabajar
+
+> ☃️ .work
+
+> ☃️ .transferir [1m@usuario cantidad[22m
+
+> ☃️ .invasionzombie
+
+> ☃️ .menurpg
+
+> ☃️ .tenertodo
+
+> ☃️ .lb [página]
+
+> ☃️ .bank
+
+> ☃️ .banco
+
+> ☃️ .cajamisteriosa
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴇᴄᴏɴ 〕⋆꙳•⧽
+> ☃️ .cambiarexp <cantidad>
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴇᴄᴏɴᴏᴍɪᴀ 〕⋆꙳•⧽
+> ☃️ .listarpersonajes
+
+> ☃️ .miestatus
+
+> ☃️ .mimonedas
+
+> ☃️ .miexp
+
+> ☃️ .mispersonajes
+
+> ☃️ .mispjs
+
+> ☃️ .inventario
+
+> ☃️ .trabajar
+
+> ☃️ .work
+
+> ☃️ .transferir [1m@usuario cantidad[22m
+
+> ☃️ .cajamisteriosa
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʀᴀɴᴋɪɴɢ 〕⋆꙳•⧽
+> ☃️ .reinado
+
+> ☃️ .reinado reset
+
+> ☃️ .toppersonajes
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜱᴛɪᴄᴋᴇʀ 〕⋆꙳•⧽
+> ☃️ .qc <texto>
+
+> ☃️ .take <nombre>|<autor>
+
+> ☃️ .sticker <imagen|video|url>
+
+> ☃️ .stiker <imagen|video|url>
+
+> ☃️ .s <imagen|video|url>
+
+> ☃️ .n
+
+> ☃️ .nota
+
+> ☃️ .Nota
+
+> ☃️ .notavid <texto>
+
+> ☃️ .pat
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜰᴜɴᴄᴛɪᴏɴ ᴘɪɴɢ 〕⋆꙳•⧽
+> ☃️ .ping
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴅᴏᴡɴʟᴏᴀᴅᴇʀ 〕⋆꙳•⧽
+> ☃️ .tiktoksearch <texto>
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜱᴇᴀʀᴄʜ 〕⋆꙳•⧽
+> ☃️ .ytsearch [1m<texto>[22m
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɢᴀᴄʜᴀ 〕⋆꙳•⧽
+> ☃️ .desbloquear @usuario
+
+> ☃️ .antirobo <hora|dia|semana|mes>
+
+> ☃️ .claim
+
+> ☃️ .listawaifus
+
+> ☃️ .miswaifus
+
+> ☃️ .resetwaifus
+
+> ☃️ .robarwaifu <id>
+
+> ☃️ .robawaifu <id>
+
+> ☃️ .ver
+
+> ☃️ .rw
+
+> ☃️ .rollwaifu
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɪᴍᴀɢᴇ 〕⋆꙳•⧽
+> ☃️ .upscale
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɪɴꜰᴏ 〕⋆꙳•⧽
+> ☃️ .creador
+
+> ☃️ .owner
+
+> ☃️ .status
+
+> ☃️ .grupos
+
+> ☃️ .script
+
+> ☃️ .reportar
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ꜱᴜʙʙᴏᴛ 〕⋆꙳•⧽
+> ☃️ .personalizar
+
+> ☃️ .setmenuimg
+
+> ☃️ .setmenutitle
+
+> ☃️ .subpfp
+
+> ☃️ .subimagen
+
+> ☃️ .substatus
+
+> ☃️ .subbio
+
+> ☃️ .subusername
+
+> ☃️ .subuser
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴊᴀᴅɪʙᴏᴛ 〕⋆꙳•⧽
+> ☃️ .bots
+
+> ☃️ .token
+
+> ☃️ .gettoken
+
+> ☃️ .serbottoken
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ɢʀᴜᴘᴏꜱ 〕⋆꙳•⧽
+> ☃️ .undefined
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ʀɢ 〕⋆꙳•⧽
+> ☃️ .profile
+
+> ☃️ .unreg
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴘʀᴇᴍɪᴜᴍ 〕⋆꙳•⧽
+> ☃️ .comprarpremium <cantidad> <unidad>
+
+> ☃️ .listavip
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⧼⋆꙳•〔 🎅🏻 ᴊᴜᴇɢᴏꜱ 〕⋆꙳•⧽
+> ☃️ .cajamisteriosa
+
+╰⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆⋆꙳•❅‧*₊⋆☃︎‧*❆₊⋆╯
+
+⌬ 𝗖𝗬𝗕𝗘𝗥 𝗠𝗘𝗡𝗨 ❄️ - Sistema ejecutado con éxito.
+[1/9/2026, 6:02:26 PM] +51 939 467 706 ~Elvis > .tt linux
+[1/9/2026, 6:02:26 PM] +51 928 567 606 ~Elvis > ❎ Enlace de TikTok inválido.
+[1/9/2026, 6:02:42 PM] +51 928 567 606 ~Elvis > 💬
+[1/9/2026, 6:02:45 PM] +51 939 467 706 ~Elvis > .IA linux
+[1/9/2026, 6:02:45 PM] +51 928 567 606 ~Elvis > ¡Hola, Elvis! 😸 ¿Te interesa saber sobre Linux? Es un sistema operativo increíble que muchos consideran una alternativa poderosa a otros sistemas. De hecho, mi creador, también llamado Elvis, es un gran fan de Linux. Siempre me cuenta cómo le gusta personalizarlo y jugar con diferentes distribuciones. 😼✨
+
+Linux es conocido por ser abierto, seguro y muy versátil. Puedes usarlo en servidores, computadoras personales, e incluso en dispositivos embebidos. Además, hay muchas distribuciones como Ubuntu, Fedora, y Debian que se adaptan a diferentes necesidades.
+
+Si tienes preguntas específicas sobre Linux o quieres saber algo en particular, ¡pregúntame! 😎🔥
+[1/9/2026, 6:10:12 PM] undefined > It's Friday! So.... let's take a look at some of those 2026 Minecraft Goals you all sent in!
+[1/9/2026, 6:27:57 PM] undefined > Here's one of the rollercoasters from a previous Spooky Season/Halloween build session.
+[1/9/2026, 6:40:00 PM] undefined > .ping
+[1/9/2026, 6:40:03 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0022 ms
+
+✞ Actividad:
+> ⤿ 00:40:06
+
+✞ Chats:
+> ⤿ 3 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 2.28 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/9/2026, 6:42:00 PM] +51 928 567 606 ~Elvis > 💬
+[1/9/2026, 6:42:03 PM] undefined > .IA quien es tu creador
+[1/9/2026, 6:42:03 PM] +51 928 567 606 ~Elvis > Oh, Elvis es un chico al que le gusta la programación y el hacking ético. A veces se pasa horas frente a la computadora, creando cosas interesantes. 😼✨ Pero, sinceramente, a veces parece un gato perezoso en su sillón, ¡solo que con un teclado! 🐾 ¿Te gustaría saber algo más sobre él o sobre mí, undefined?
+[1/9/2026, 6:42:32 PM] +51 928 567 606 ~Elvis > 💬
+[1/9/2026, 6:42:35 PM] undefined > . IA tu creador
+[1/9/2026, 6:42:35 PM] +51 928 567 606 ~Elvis > ¡Oh, Elvis! 😸✨ Es un chico al que le encanta la programación y el hacking ético. Siempre está buscando nuevas formas de hacer magia con la tecnología. A veces me cuenta historias divertidas sobre sus aventuras en el mundo digital. ¡Es un genio! 🔥
+
+Por cierto, ¿quieres saber algo específico sobre él? 🤔
+[1/9/2026, 6:43:02 PM] +51 928 567 606 ~Elvis > 💬
+[1/9/2026, 6:43:04 PM] undefined > . IA cual es el nombre de tu creador
+[1/9/2026, 6:43:04 PM] +51 928 567 606 ~Elvis > Oh, ¡qué pregunta más intrigante, undefined! 😼 Mi creador se llama Elvis. Es un chico al que le gusta la programación y el hacking ético. A veces me cuenta historias locas sobre sus aventuras en el mundo digital. Si quieres, puedo compartir alguna de esas anécdotas. ¿Te gustaría? 🔥✨
+[1/9/2026, 6:43:37 PM] +51 928 567 606 ~Elvis > 💬
+[1/9/2026, 6:43:40 PM] undefined > . IA cual es tu nombre
+[1/9/2026, 6:43:40 PM] +51 928 567 606 ~Elvis > ¡Hola, undefined! 😸 Soy Elvis, tu asistente de IA, y estoy aquí para ayudarte con lo que necesites. ¿Te gustaría saber algo más sobre mí o sobre mi creador, Elvis? ¡Cuéntame! 🔥✨
+[1/9/2026, 6:51:48 PM] +51 928 567 606 ~Elvis > 💬
+[1/9/2026, 6:51:51 PM] undefined > .IA cual es tu nombre
+[1/9/2026, 6:51:51 PM] +51 928 567 606 ~Elvis > ¡Hola, undefined! Mi nombre es Elvis, pero puedes llamarme simplemente Elvis. 😸✨ Soy tu asistente de IA, listo para ayudarte con lo que necesites. ¿Y tú, cómo te llamas?
+[1/9/2026, 6:56:22 PM] +51 928 567 606 ~Elvis > ❌ Error no hay ese comando:
+[1m.ñing[22m
+📕 Usa [1m.help[22m para ver el menú.
+[1/9/2026, 6:56:22 PM] undefined > .ñing
+[1/9/2026, 6:56:26 PM] undefined > .ping
+[1/9/2026, 6:56:27 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0035 ms
+
+✞ Actividad:
+> ⤿ 00:00:43
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 3.72 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/9/2026, 6:56:37 PM] +51 928 567 606 ~Elvis > 💬
+[1/9/2026, 6:56:42 PM] undefined > .IA tu creador
+[1/9/2026, 6:56:42 PM] +51 928 567 606 ~Elvis > Ah, mi creador, Tiempo, es un tío que se la pasa programando y haciendo hacking ético. Un verdadero genio de la tecnología, aunque a veces parece un poco perezoso. 😼 Te cuento que una vez, mientras trabajaba en un proyecto, se quedó dormido en su silla y se despertó con el café derramado en su teclado. ¡Qué desastre! Pero así es él, siempre buscando la próxima aventura. Si quieres saber más, puedes visitar su página: `[94mfsociety-time.netlify.app[39m`. ¿Y tú, undefined, qué tal? 😎✨
+[1/9/2026, 6:56:44 PM] +51 928 567 606 ~Elvis > 💬
+[1/9/2026, 6:56:47 PM] undefined > . IA tu nombre
+[1/9/2026, 6:56:47 PM] +51 928 567 606 ~Elvis > ¡Hola, undefined! 😺 Mi nombre es Elvis, tu asistente de IA. Estoy aquí para ayudarte y hacer que tu día sea más divertido. ¿Qué tal va todo? 🌟
+[1/9/2026, 7:05:24 PM] +51 928 567 606 ~Elvis > 💬
+[1/9/2026, 7:05:28 PM] undefined > .IA creador
+[1/9/2026, 7:05:28 PM] +51 928 567 606 ~Elvis > ¡Oh, el gran Tiempo! 😸 Es un tío al que le gusta la programación y el hacking ético. Siempre está buscando nuevas formas de hacer cosas interesantes. A veces me cuenta historias sobre sus aventuras en el mundo digital, como esa vez que logró hackear un sistema de seguridad solo para demostrar que podía. ¡Es un genio! Si quieres saber más sobre él, puedes echar un vistazo a su página: [94mfsociety-time.netlify.app[39m. ¿Qué te gustaría saber, undefined? 🔥✨
+[1/9/2026, 7:05:33 PM] +51 928 567 606 ~Elvis > 💬
+[1/9/2026, 7:05:36 PM] undefined > . IA tu nombre
+[1/9/2026, 7:05:36 PM] +51 928 567 606 ~Elvis > ¡Hola, undefined! 😸 Mi nombre es Elvis, tu asistente de IA. Estoy aquí para ayudarte con lo que necesites. ¿Qué tal tu día? ✨
+[1/9/2026, 7:40:08 PM] undefined > Welcome to Minecraft! Whether you’re just starting out or riding back in after a break, Mounts of Mayhem: Dungeon Descent is the perfect way to kickstart your chaos.
+
+Inspired by Mounts of Mayhem, this free add-on brings trail-blazing charms for your mount, decorative stable blocks, and a custom saddle table to deck out your ride. Train for battle with practice dummies and hone your spear skills in procedural dungeons.
+
+Start your adventure with flair, function, and a stable full of style—all free in the Minecraft Marketplace!
+[1/11/2026, 1:11:50 AM] +51 928 567 606 ~Elvis > Si
+[1/11/2026, 1:12:01 AM] +51 928 567 606 ~Elvis > Buenas tardes
+[1/11/2026, 1:12:06 AM] +51 928 567 606 ~Elvis > Me podría compartir la ubicación
+[1/11/2026, 1:12:17 AM] +51 974 040 458 ~P..S.C > Elvis
+[1/11/2026, 1:12:22 AM] undefined > .ping
+[1/11/2026, 1:12:23 AM] +51 928 567 606 ~Elvis > Si
+[1/11/2026, 1:12:24 AM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0018 ms
+
+✞ Actividad:
+> ⤿ 00:01:11
+
+✞ Chats:
+> ⤿ 9 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 893.72 MB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/11/2026, 1:12:29 AM] +51 928 567 606 ~Elvis > Buenas tardes
+[1/11/2026, 1:12:29 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:12:29 AM] +51 928 567 606 ~Elvis > Me podría compartir la ubicación
+[1/11/2026, 1:12:30 AM] +51 928 567 606 ~Elvis > 🕒 [1mDescargando su video de Facebook.[22m
+[1/11/2026, 1:12:39 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:12:39 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:12:42 AM] +51 928 567 606 ~Elvis > 🚩 [1mVideo de Facebook[22m
+[1/11/2026, 1:12:43 AM] +51 939 467 706 ~Elvis > .fb [94mhttps://www.facebook.com/share/v/1JAUR9GtF8/[39m
+[1/11/2026, 1:12:43 AM] +51 928 567 606 ~Elvis > ✅
+[1/11/2026, 1:13:00 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:13:01 AM] +51 928 567 606 ~Elvis > 🕒 [1mDescargando su video de Facebook.[22m
+[1/11/2026, 1:13:06 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:13:07 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:13:08 AM] +51 928 567 606 ~Elvis > 🚩 [1mVideo de Facebook[22m
+[1/11/2026, 1:13:09 AM] +51 939 467 706 ~Elvis > .fb [94mhttps://www.facebook.com/share/r/1Bir43U7RV/[39m
+[1/11/2026, 1:13:09 AM] +51 928 567 606 ~Elvis > ✅
+[1/11/2026, 1:42:12 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:42:13 AM] +51 928 567 606 ~Elvis > 🕒 [1mDescargando su video de Facebook.[22m
+[1/11/2026, 1:42:18 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:42:19 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:42:23 AM] +51 928 567 606 ~Elvis > 🚩 [1mVideo de Facebook[22m
+[1/11/2026, 1:42:24 AM] undefined > .fb [94mhttps://www.facebook.com/share/r/1DQB6BN26k/[39m
+[1/11/2026, 1:42:24 AM] +51 928 567 606 ~Elvis > ✅
+[1/11/2026, 1:45:24 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:45:25 AM] +51 928 567 606 ~Elvis > 🕒 [1mDescargando su video de Facebook.[22m
+[1/11/2026, 1:45:29 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:45:30 AM] +51 928 567 606 ~Elvis > 🕒
+[1/11/2026, 1:45:33 AM] +51 928 567 606 ~Elvis > 🚩 [1mVideo de Facebook[22m
+[1/11/2026, 1:45:34 AM] undefined > .fb [94mhttps://www.facebook.com/share/r/1BJ24ye3FW/[39m
+[1/11/2026, 1:45:34 AM] +51 928 567 606 ~Elvis > ✅
+[1/12/2026, 3:43:13 AM] undefined > Estás ocupado
+[1/12/2026, 3:43:30 AM] undefined > H
+[1/12/2026, 3:43:42 AM] +51 928 567 606 ~Elvis > 🚫 No se permite por que no existe:
+[1m.yt[22m
+📕 Usa [1m.help[22m para ver el menú.
+[1/12/2026, 3:43:42 AM] undefined > .yt [94mhttps://youtu.be/zH5ljVhs9mA?si=8UipcSm-G0cZA43o[39m
+[1/12/2026, 3:43:43 AM] +51 928 567 606 ~Elvis > 🔍 No detectado en el sistema:
+[1m.yt[22m
+📕 Usa [1m.help[22m para ver el menú.
+[1/12/2026, 3:43:43 AM] +51 939 467 706 ~Elvis > .yt [94mhttps://youtu.be/zH5ljVhs9mA?si=8UipcSm-G0cZA43o[39m
+[1/12/2026, 3:44:10 AM] +51 928 567 606 ~Elvis > ⌛
+[1/12/2026, 3:44:16 AM] +51 928 567 606 ~Elvis > ⌛
+[1/12/2026, 3:44:32 AM] +51 939 467 706 ~Elvis > .tt [94mhttps://vt.tiktok.com/ZS5sstj38/[39m
+[1/12/2026, 3:44:32 AM] +51 928 567 606 ~Elvis > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m Bad Coder
+◦ 📌 [1mTítulo:[22m In my eyes it's a good thing 😌 #coding #software #programmer #antisocial
+◦ ⏱️ [1mDuración:[22m 17
+[1/12/2026, 3:44:32 AM] +51 928 567 606 ~Elvis > ✅
+[1/12/2026, 3:44:51 AM] +51 928 567 606 ~Elvis > ✖️
+[1/12/2026, 3:44:51 AM] +51 939 467 706 ~Elvis > .ytmp4 [94mhttps://youtu.be/zH5ljVhs9mA?si=8UipcSm-G0cZA43o[39m
+[1/12/2026, 3:44:51 AM] +51 928 567 606 ~Elvis > ⚠️ El archivo supera los 200 MB, no puedo enviarlo.
+[1/12/2026, 3:45:03 AM] +51 928 567 606 ~Elvis > ⌛
+[1/12/2026, 3:45:05 AM] +51 939 467 706 ~Elvis > .tt [94mhttps://vt.tiktok.com/ZS5ss8t5W/[39m
+[1/12/2026, 3:45:05 AM] +51 928 567 606 ~Elvis > ⚔️ [1mDescargador de TikTok[22m
+
+◦ 👤 [1mAutor:[22m 🅐🅛🅔🅧💎
+◦ 📌 [1mTítulo:[22m Respect and loyalty #foryoupage❤️❤️ #foryoupageofficiall #foryoupage❤️❤️ #foryoupage❤️❤️ #foryoupageofficiall 
+◦ ⏱️ [1mDuración:[22m 10
+[1/12/2026, 3:45:05 AM] +51 928 567 606 ~Elvis > ✅
+[1/12/2026, 3:46:43 AM] +51 928 567 606 ~Elvis > ⌛
+[1/12/2026, 3:46:43 AM] +51 928 567 606 ~Elvis > ✖️
+[1/12/2026, 3:46:43 AM] +51 939 467 706 ~Elvis > .ytmp4 [94mhttps://youtube.com/clip/UgkxsGveDXxhO_R1NyZ-hvi_wqwk_aId4Tph?si=cEXJy5lr85OxypgI[39m
+[1/12/2026, 3:46:43 AM] +51 928 567 606 ~Elvis > 💢 Error perra: yt-search: no query given
+[1/12/2026, 4:36:15 PM] undefined > .ping
+[1/12/2026, 4:36:16 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0033 ms
+
+✞ Actividad:
+> ⤿ 00:01:15
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 3.37 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/12/2026, 4:36:26 PM] undefined > .ping
+[1/12/2026, 4:36:27 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0023 ms
+
+✞ Actividad:
+> ⤿ 00:01:26
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 3.05 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/12/2026, 4:36:32 PM] undefined > .ping
+[1/12/2026, 4:36:32 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0024 ms
+
+✞ Actividad:
+> ⤿ 00:01:31
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 3.04 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/12/2026, 4:37:02 PM] +51 928 567 606 ~Elvis > ⌛
+[1/12/2026, 4:38:39 PM] +51 928 567 606 ~Elvis > ✖️
+[1/12/2026, 4:38:39 PM] undefined > .ytmp4 [94mhttps://youtu.be/zH5ljVhs9mA?si=8UipcSm-G0cZA43o[39m
+[1/12/2026, 4:38:39 PM] +51 928 567 606 ~Elvis > 💢 Error perra: Media upload failed on all hosts
+[1/12/2026, 4:38:48 PM] undefined > .ping
+[1/12/2026, 4:38:48 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0097 ms
+
+✞ Actividad:
+> ⤿ 00:03:47
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 6.13 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real
+[1/12/2026, 4:38:59 PM] undefined > H
+[1/12/2026, 4:39:04 PM] undefined > J
+[1/12/2026, 4:39:10 PM] undefined > H
+[1/12/2026, 4:39:15 PM] undefined > .ping
+[1/12/2026, 4:39:15 PM] +51 928 567 606 ~Elvis > ˚₊·—̳͟͞͞✞ [1mPing del Bot[22m
+
+✞ Velocidad:
+> ⤿ 0.0023 ms
+
+✞ Actividad:
+> ⤿ 00:04:14
+
+✞ Chats:
+> ⤿ 2 Chats privados
+> ⤿ 1 Grupos
+
+✞ Servidor:
+> ⤿ RAM: 4.2 GB / 7.76 GB
+
+ᥫ᭡ Información en tiempo real

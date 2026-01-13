@@ -48,11 +48,14 @@ export default handler
 function getGoogleImageSearch(query) {
 
   const apiDelirius = global?.APIs?.delirius?.url || 'https://delirius-api.vercel.app'
+  const apiDelirius = 'https://delirius-api.vercel.app'
   const apiSiputzx = global?.APIs?.siputzx?.url || 'https://api.siputzx.my.id'
 
   const apis = [
     `${apiDelirius}/search/gimage?query=${encodeURIComponent(query)}`,
     `${apiSiputzx}/api/images?query=${encodeURIComponent(query)}`
+    `https://delirius-api.vercel.app/search/gimage?query=${encodeURIComponent(query)}`,
+    `https://api.siputzx.my.id/api/images?query=${encodeURIComponent(query)}`
   ]
 
   return {

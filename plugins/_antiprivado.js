@@ -1,11 +1,9 @@
-//código creado x The Carlos 
-//no olviden dejar créditos 
 const TIEMPO_BLOQUEO_MS = 2 * 24 * 60 * 60 * 1000; // 2 días
 
 export async function before(m, { conn, isAdmin, isBotAdmin, isOwner, isROwner }) {
   try {
     if (m.isBaileys && m.fromMe) return true;
-    if (!m.message || !m.text) return false;
+    if (!m.message || !m.text) return true;
 
     const text = m.text.toUpperCase();
     const exentos = ['PIEDRA', 'PAPEL', 'TIJERA', 'SERBOT', 'JADIBOT'];
@@ -13,7 +11,7 @@ export async function before(m, { conn, isAdmin, isBotAdmin, isOwner, isROwner }
 
     const bot = global.db?.data?.settings?.[conn.user?.jid] || {};
     const user = global.db?.data?.users?.[m.sender] || {};
-    const gp1 = global.gp1 || 'https://chat.whatsapp.com/tu-enlace-grupo';
+    const gp1 = global.gp1 || 'https://chat.whatsapp.com/KPhg6mUHB7dIdW9bbjtjkn';
 
     // Permitir siempre los comandos exentos y el "code"
     if (exentos.some(word => text.includes(word)) || comandoPermitidoBloqueado.some(cmd => text.startsWith(cmd))) {
@@ -37,7 +35,7 @@ export async function before(m, { conn, isAdmin, isBotAdmin, isOwner, isROwner }
         });
       } else {
         // Si está bloqueado y no es un comando permitido, deniega
-        return false;
+        return (m.isBaileys = true);
       }
     }
 
@@ -59,12 +57,12 @@ export async function before(m, { conn, isAdmin, isBotAdmin, isOwner, isROwner }
 🌐 ${gp1}
 ━━━━━━━━━━━━━━━━━━━━`.trim();
 
-        await m.reply(msgBloqueo, false, { mentions: [m.sender] });
+        await m.reply(msgBloqueo, true, { mentions: [m.sender] });
         await conn.updateBlockStatus(m.chat, 'block').catch(() => {});
         user.warnPrivado = 0;
         user.bloqueado = true;
         user.tiempoBloqueo = Date.now();
-        return false;
+        return (m.isBaileys = true);
       } else {
         const msgAdvertencia = `
 ⚠️ *¡ACCESO RESTRINGIDO!* ⚠️
@@ -78,8 +76,8 @@ export async function before(m, { conn, isAdmin, isBotAdmin, isOwner, isROwner }
 🌐 ${gp1}
 ━━━━━━━━━━━━━━━━━━`.trim();
 
-        await m.reply(msgAdvertencia, false, { mentions: [m.sender] });
-        return false;
+        await m.reply(msgAdvertencia, true, { mentions: [m.sender] });
+        return (m.isBaileys = true);
       }
     }
 

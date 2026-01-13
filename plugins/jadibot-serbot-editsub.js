@@ -120,7 +120,7 @@ const handler = async (m, { conn, command, usedPrefix, text }) => {
    ↳ Cambia el *nombre del SubBot*.
 
 📢 *Canal oficial del bot*
-https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04
+https://whatsapp.com/channel/0029VbBcXc8Chq6GmExvhU1l
 
 ⚠️ *Todos los comandos solo pueden ser usados por el SubBot o el propietario.*`
         m.reply(info)

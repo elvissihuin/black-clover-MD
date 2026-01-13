@@ -7,7 +7,7 @@ let handler = async (m, { conn }) => {
   const rwait = '⏳'
   const done = '✅'
   const error = '❌'
-  const dev = ' by The Carlos 👑'
+  const dev = ' by TiempoMD 👑'
   const fkontak = {}
 
   let q = m.quoted ? m.quoted : m

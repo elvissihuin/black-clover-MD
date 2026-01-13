@@ -76,7 +76,7 @@ const handler = async (m, { conn, command, participants, text }) => {
 };
 
 handler.help = ['broadcast', 'bc3'];
-handler.tags = ['owner'];
+handler.tags = ['Creador'];
 handler.command = ['bc3', 'comunicado'];
 handler.owner = true;
 

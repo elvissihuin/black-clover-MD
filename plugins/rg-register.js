@@ -1,6 +1,3 @@
-//código creado x The Carlos 👑
-//no olvides dejar créditos 
-
 import fs from 'fs'
 import path from 'path'
 import fetch from 'node-fetch'
@@ -8,60 +5,41 @@ import fetch from 'node-fetch'
 const tmpDir = './tmp'
 if (!fs.existsSync(tmpDir)) fs.mkdirSync(tmpDir, { recursive: true })
 
-async function ensureImage(filename, url) {
-  const filePath = path.join(tmpDir, filename)
-  if (!fs.existsSync(filePath)) {
-    const res = await fetch(url)
-    const arrayBuffer = await res.arrayBuffer()
-    const buffer = Buffer.from(arrayBuffer)
-    fs.writeFileSync(filePath, buffer)
+// util: fetch con timeout
+async function fetchWithTimeout(url, options = {}, ms = 8000) {
+  const controller = new AbortController()
+  const id = setTimeout(() => controller.abort(), ms)
+  try {
+    const res = await fetch(url, { ...options, signal: controller.signal })
+    clearTimeout(id)
+    return res
+  } catch (e) {
+    clearTimeout(id)
+    throw e
   }
-  return filePath
 }
 
-const INSTAGRAM_USER_ID = process.env.INSTAGRAM_USER_ID || ''
-const IG_ACCESS_TOKEN = process.env.IG_ACCESS_TOKEN || ''
-
-async function verificaInstagram(username) {
-  if (!INSTAGRAM_USER_ID || !IG_ACCESS_TOKEN) return true
+// ensureImage asíncrono y no bloqueante
+async function ensureImage(filename, url) {
+  const filePath = path.join(tmpDir, filename)
   try {
-    const url = `https://graph.instagram.com/${INSTAGRAM_USER_ID}/followers?access_token=${IG_ACCESS_TOKEN}`
-    const req = await fetch(url)
-    const json = await req.json()
-    if (!json || !json.data) return true
-    return json.data.some(f => f.username && username && f.username.toLowerCase() === username.toLowerCase())
-  } catch (e) {
-    return true
+    await fs.promises.access(filePath)
+    return filePath
+  } catch {
+    // no existe, descargar con timeout
+    const res = await fetchWithTimeout(url, {}, 8000).catch(() => null)
+    if (!res || !res.ok) throw new Error('No se pudo descargar la imagen')
+    const arrayBuffer = await res.arrayBuffer()
+    const buffer = Buffer.from(arrayBuffer)
+    await fs.promises.writeFile(filePath, buffer)
+    return filePath
   }
 }
 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
   const user = global.db.data.users[m.sender]
-  const followKey = 'siguiendo'
 
-  if (user.followed) {
-    const igUser = (m.pushName || '').replace(/\s+/g, '').toLowerCase()
-    const sigue = await verificaInstagram(igUser)
-    if (!sigue) {
-      user.followed = false
-      return conn.sendMessage(m.chat, { text: `⚠️ Has dejado de seguir a mi creador en Instagram.\nPor favor síguelo nuevamente:\n👉 https://www.instagram.com/_carlitos.zx\n\nLuego escribe:\n*${usedPrefix + command} ${followKey}*` }, { quoted: m })
-    }
-  }
-
-  if (!user.followed) {
-    if ((text || '').toLowerCase() === followKey) {
-      const igUser = (m.pushName || '').replace(/\s+/g, '').toLowerCase()
-      const sigue = await verificaInstagram(igUser)
-      if (!sigue) {
-        return conn.sendMessage(m.chat, { text: `❌ No detecto que sigas a mi creador\n\n👉 https://www.instagram.com/_carlitos.zx\n\nCuando lo sigas escribe:\n*${usedPrefix + command} ${followKey}*` }, { quoted: m })
-      }
-      user.followed = true
-      return conn.sendMessage(m.chat, { text: `✅ ¡Perfecto! Verificado que sigues a TheCarlosZX.\nAhora puedes usar *${usedPrefix + command} Nombre.Edad* para registrarte.` }, { quoted: m })
-    }
-
-    return conn.sendMessage(m.chat, { text: `⚠️ Para poder usar el bot primero debes seguir a mi creador en Instagram:\n\n👉 https://www.instagram.com/_carlitos.zx\n\nDespués de seguirlo, escribe:\n\n*${usedPrefix + command} ${followKey}*` }, { quoted: m })
-  }
-
+  // Si ya está registrado, retornamos
   if (user.registered === true) {
     return conn.sendMessage(m.chat, { text: `⚠️ Ya estás registrado.\nUsa *${usedPrefix}perfil* para ver tu grimorio.` }, { quoted: m })
   }
@@ -87,6 +65,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   const nivelMagico = Math.floor(Math.random() * 10) + 1
   const grimorioColor = '📖 Grimorio Mágico'
 
+  // Asignar datos al usuario y marcar registrado
   user.name = name.trim()
   user.age = age
   user.country = country
@@ -102,8 +81,21 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     profilePic = 'https://qu.ax/AfutJ.jpg'
   }
 
-  const registroImg = await ensureImage('perfil.jpg', profilePic)
-  const thumbnailBuffer = fs.readFileSync(await ensureImage('registro_completo.jpg', 'https://qu.ax/AfutJ.jpg'))
+  // ensureImage usa fs.promises y fetchWithTimeout
+  let registroImg
+  try {
+    registroImg = await ensureImage('perfil.jpg', profilePic)
+  } catch {
+    registroImg = path.join('./src', 'sticker', 'nota.jpg') // fallback local si no descarga
+  }
+
+  let thumbnailBuffer
+  try {
+    const thumbPath = await ensureImage('registro_completo.jpg', 'https://qu.ax/AfutJ.jpg')
+    thumbnailBuffer = await fs.promises.readFile(thumbPath)
+  } catch {
+    thumbnailBuffer = null
+  }
 
   let responseMessage = `> *🌿!**R E G I S T R O  M Á G I C O*\n\n`
   responseMessage += `> *!* ✧──『 ⚜️ 𝗗𝗔𝗧𝗢𝗦 ⚜️ 』\n`
@@ -131,10 +123,11 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     },
     externalAdReply: {
       showAdAttribution: false,
-      title: `📜 registro clover`,
-      body: `✡︎ Black-clover-MD • The Carlos`,
+      title: `📜 REGISTRO `,
+      body: `✡︎ Creeper-bot-MD • tiempo`,
       mediaType: 2,
-      sourceUrl: global.redes || '',
+      // No sourceUrl para evitar previews/external fetchs
+      sourceUrl: '',
       thumbnail: global.icons || thumbnailBuffer
     }
   }
